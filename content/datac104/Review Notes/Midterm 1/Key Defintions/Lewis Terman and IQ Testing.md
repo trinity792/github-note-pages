@@ -1,0 +1,3 @@
+## Lewis Terman / IQ Testing / Stanford
+- **Definition**: The American psychologist at Stanford University who adapted the Binet intelligence scale into the Stanford-Binet IQ test, using standardized quantitative scores to rank human intelligence, assert racial hierarchies, and advocate for eugenic sterilization and restrictive immigration laws (`Lecture 9, slides 3, 7`).
+#academic/year-3/fall-2026/data-c104/key-definitions

@@ -1,0 +1,4 @@
+## Air Quality Index
+- **Definition**: A standardized quantitative indicator that aggregates measurements of multiple air pollutants (e.g., ozone, fine particulate matter PM2.5, hydrogen sulfide) into a single numeric scale to communicate health risks to the public (`Lecture 3, slides 2, 8`).
+- **Case Context**: In the Bay Area Air Quality Management District (BAAQMD) case study, the AQI acts as an authoritative, selective representation that decides what "counts" as air pollution, shaping regulatory enforcement and public perception (`Lecture 3, slides 2–5`).
+#academic/year-3/fall-2026/data-c104/key-definitions

@@ -1,0 +1,5 @@
+## California Mechanical Tomato Harvester
+- **Source**: Langdon Winner, _"Do Artifacts Have Politics?"_ (1980)
+- **Summary**: Developed by researchers at the University of California, a mechanical tomato harvester dramatically automated harvesting, requiring agricultural scientists to simultaneously breed hard, uniform, thick-skinned tomatoes.
+- **Additional Context**: While advertised as a productivity triumph, the machine required massive capital investments that forced thousands of small family farms out of business, concentrating agricultural wealth in the hands of large agribusiness conglomerates while displacing thousands of farm laborers. Later additions, such as electronic color sorters, further consolidated corporate power in California agriculture.
+#academic/year-3/fall-2026/data-c104/key-cases

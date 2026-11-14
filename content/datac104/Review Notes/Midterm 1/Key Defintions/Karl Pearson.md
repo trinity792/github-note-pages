@@ -1,0 +1,3 @@
+## Karl Pearson
+- **Definition**: Founder of the Department of Applied Statistics at UCL and co-founder of _Biometrika_, who developed fundamental statistical tools (chi-squared test, correlation coefficient) specifically to quantify racial purity, defend colonial genocide, and advance eugenics (`Lecture 9, slides 3, 7`; `French / Nautilus p. 63`).
+#academic/year-3/fall-2026/data-c104/key-definitions

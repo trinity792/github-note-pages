@@ -1,0 +1,5 @@
+## Chernobyl Nuclear Fallout & Cumbrian Sheep Farmers
+- **Source**: Harry Collins & Trevor Pinch, _The Golem at Large_ (Ch. 6)
+- **Summary**: Following the 1986 Chernobyl nuclear meltdown, radioactive fallout rained down on the Cumbrian fells in northern England, leading to long-term government restrictions on moving and selling sheep.
+- **Additional Context**: Government scientists used theoretical models based on lowland clay soils to predict that caesium would quickly lock into the soil, claiming restrictions would last only three weeks. In reality, Cumbria’s acidic, peaty soil kept the caesium mobile, causing bans to last for years. Scientists dismissed the practical craft knowledge of local sheep farmers (e.g., regarding sheep grazing habits or localized rainwater runoff). Later, scientists admitted the farmers were right that much of the radiation actually originated from the nearby 1957 Windscale/Sellafield nuclear fire.
+#academic/year-3/fall-2026/data-c104/key-cases

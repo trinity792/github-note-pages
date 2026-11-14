@@ -1,0 +1,3 @@
+## Ronald Fisher
+- **Definition**: Eminent British statistician and geneticist (creator of ANOVA and randomized control trials) who synthesized Darwinian evolution with Mendelian genetics while actively lobbying for eugenic sterilization laws to prevent the fertility of lower social classes (`Lecture 9, slides 3, 7`; `French / Nautilus p. 63–64`).
+#academic/year-3/fall-2026/data-c104/key-definitions

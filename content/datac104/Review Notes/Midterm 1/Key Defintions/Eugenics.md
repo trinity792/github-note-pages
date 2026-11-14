@@ -1,0 +1,3 @@
+## Eugenics
+- **Definition**: The social movement and scientific movement coined by Francis Galton in 1883 aimed at "improving" human stock by encouraging reproduction among elite classes (_positive eugenics_) and restricting reproduction among "inferior" or "feeble-minded" populations (_negative eugenics_) (`Lecture 9, slides 2–7`; `French / Nautilus p. 63`).
+#academic/year-3/fall-2026/data-c104/key-definitions

@@ -1,0 +1,5 @@
+## Robert Moses’s Parkway Overpasses on Long Island
+- **Source**: Langdon Winner, _"Do Artifacts Have Politics?"_ (1980) & _Lecture 1_
+- **Summary**: Urban planner Robert Moses designed over two hundred overpasses on Long Island, New York, with extraordinarily low clearance (some as low as nine feet at the curb).
+- **Additional Context**: Moses intentionally built the overpasses low to physically block public buses from accessing Jones Beach and state parks. Because low-income families and racial minorities relied heavily on public transit while upper- and middle-class white families owned private automobiles, the physical design of the bridges enforced class and racial segregation prior to and independent of their use. This case demonstrates that **technical artifacts possess inherent political qualities**.
+#academic/year-3/fall-2026/data-c104/key-cases

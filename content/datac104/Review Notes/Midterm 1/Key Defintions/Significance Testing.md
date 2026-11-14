@@ -1,0 +1,3 @@
+## Significance Testing
+- **Definition**: The statistical methodology developed by Pearson and standardized by Fisher that uses a "null hypothesis" straw-man and a p-value threshold (e.g., \(p < 0.05\)) to evaluate experimental results, historically deployed to reify group differences and present eugenicist claims as objective science (`Lecture 9, slides 3, 7`; `French / Nautilus p. 63`).
+#academic/year-3/fall-2026/data-c104/key-definitions

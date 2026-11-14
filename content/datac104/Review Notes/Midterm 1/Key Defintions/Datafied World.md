@@ -1,0 +1,4 @@
+## Datafied World
+- **Definition**: A world in which fundamental aspects of human life—including housing, transportation, healthcare, speech, location, and social interactions—are systematically converted into digital data, creating interconnected layers of ubiquitous data, analytics, algorithms, and autonomous agents that structure modern social order (`Lecture 2, slides 2–5`).
+- **Case Context**: Illustrated by algorithmic rental pricing software (e.g., RealPage's YieldStar), where private housing markets are transformed into a datafied domain governed by automated price-setting tools (`Lecture 2, slides 3–5`).
+#academic/year-3/fall-2026/data-c104/key-definitions

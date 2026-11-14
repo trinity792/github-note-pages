@@ -1,0 +1,1 @@
+Where the act of classifying individuals alters their self-conception, behavior, and social interactions. As classified individuals change in response to these scientific and administrative labels, they become a **"moving target,"** which in turn forces experts to revise their diagnostics, knowledge systems, and institutional practices.

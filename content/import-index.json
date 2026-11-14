@@ -1,0 +1,2010 @@
+{
+  "cs61c/number-representation.md": {
+    "file": "cs61c/number-representation.md",
+    "key": "cs61c/number-representation",
+    "format": "md"
+  },
+  "cs61c/c.md": {
+    "file": "cs61c/c.md",
+    "key": "cs61c/c",
+    "format": "md"
+  },
+  "cs61c/floating-point.md": {
+    "file": "cs61c/floating-point.md",
+    "key": "cs61c/floating-point",
+    "format": "md"
+  },
+  "cs61c/risc-v.md": {
+    "file": "cs61c/risc-v.md",
+    "key": "cs61c/risc-v",
+    "format": "md"
+  },
+  "cs61c/instruction-formats.md": {
+    "file": "cs61c/instruction-formats.md",
+    "key": "cs61c/instruction-formats",
+    "format": "md"
+  },
+  "cs61c/call.md": {
+    "file": "cs61c/call.md",
+    "key": "cs61c/call",
+    "format": "md"
+  },
+  "cs61c/digital-logic.md": {
+    "file": "cs61c/digital-logic.md",
+    "key": "cs61c/digital-logic",
+    "format": "md"
+  },
+  "cs61c/datapath.md": {
+    "file": "cs61c/datapath.md",
+    "key": "cs61c/datapath",
+    "format": "md"
+  },
+  "cs61c/pipelining.md": {
+    "file": "cs61c/pipelining.md",
+    "key": "cs61c/pipelining",
+    "format": "md"
+  },
+  "cs61c/caches.md": {
+    "file": "cs61c/caches.md",
+    "key": "cs61c/caches",
+    "format": "md"
+  },
+  "cs61c/parallelism.md": {
+    "file": "cs61c/parallelism.md",
+    "key": "cs61c/parallelism",
+    "format": "md"
+  },
+  "cs61c/virtual-memory.md": {
+    "file": "cs61c/virtual-memory.md",
+    "key": "cs61c/virtual-memory",
+    "format": "md"
+  },
+  "cs70/Lecture Notes/L1 Direct Proofs.md": {
+    "file": "cs70/Lecture Notes/L1 Direct Proofs.md",
+    "key": "cs70/l1-direct-proofs-6022e196de",
+    "format": "md"
+  },
+  "cs70/Lecture Notes/L2 Propositional Logic and Proof Techniques.md": {
+    "file": "cs70/Lecture Notes/L2 Propositional Logic and Proof Techniques.md",
+    "key": "cs70/l2-propositional-logic-and-proof-techniques-697b29bb4a",
+    "format": "md"
+  },
+  "cs70/Lecture Notes/L3 Proof Techniques.md": {
+    "file": "cs70/Lecture Notes/L3 Proof Techniques.md",
+    "key": "cs70/l3-proof-techniques-9b18dd585d",
+    "format": "md"
+  },
+  "cs70/Lecture Notes/L4 Induction.md": {
+    "file": "cs70/Lecture Notes/L4 Induction.md",
+    "key": "cs70/l4-induction-0219415120",
+    "format": "md"
+  },
+  "cs70/Lecture Notes/L5 Modular Arithmetic.md": {
+    "file": "cs70/Lecture Notes/L5 Modular Arithmetic.md",
+    "key": "cs70/l5-modular-arithmetic-a126f08ddd",
+    "format": "md"
+  },
+  "cs70/Lecture Notes/L6 Euclid, FLT, CRT.md": {
+    "file": "cs70/Lecture Notes/L6 Euclid, FLT, CRT.md",
+    "key": "cs70/l6-euclid-flt-crt-f6a9d06562",
+    "format": "md"
+  },
+  "cs70/Lecture Notes/L7 RSA.md": {
+    "file": "cs70/Lecture Notes/L7 RSA.md",
+    "key": "cs70/l7-rsa-2f9fb762ac",
+    "format": "md"
+  },
+  "cs70/Lecture Notes/L8 Polynomials.md": {
+    "file": "cs70/Lecture Notes/L8 Polynomials.md",
+    "key": "cs70/l8-polynomials-a8601e8f05",
+    "format": "md"
+  },
+  "cs70/Lecture Notes/L9 Secret Sharing & Error-Correcting Codes.md": {
+    "file": "cs70/Lecture Notes/L9 Secret Sharing & Error-Correcting Codes.md",
+    "key": "cs70/l9-secret-sharing-error-correcting-codes-482a48417e",
+    "format": "md"
+  },
+  "cs70/Lecture Notes/L10 Graphs I.md": {
+    "file": "cs70/Lecture Notes/L10 Graphs I.md",
+    "key": "cs70/l10-graphs-i-801dcc8f73",
+    "format": "md"
+  },
+  "cs70/Lecture Notes/L11 Graphs II.md": {
+    "file": "cs70/Lecture Notes/L11 Graphs II.md",
+    "key": "cs70/l11-graphs-ii-c9fcb70d67",
+    "format": "md"
+  },
+  "cs70/Lecture Notes/L12 Stable Matching.md": {
+    "file": "cs70/Lecture Notes/L12 Stable Matching.md",
+    "key": "cs70/l12-stable-matching-584460d35c",
+    "format": "md"
+  },
+  "cs70/Lecture Notes/L13 Countability.md": {
+    "file": "cs70/Lecture Notes/L13 Countability.md",
+    "key": "cs70/l13-countability-ae48ee3292",
+    "format": "md"
+  },
+  "cs70/Lecture Notes/L14 Computability.md": {
+    "file": "cs70/Lecture Notes/L14 Computability.md",
+    "key": "cs70/l14-computability-4acc6c3fea",
+    "format": "md"
+  },
+  "cs70/Lecture Notes/L15 Counting.md": {
+    "file": "cs70/Lecture Notes/L15 Counting.md",
+    "key": "cs70/l15-counting-8c3fe7a3d4",
+    "format": "md"
+  },
+  "cs70/Lecture Notes/L16 Intro to Discrete Probability.md": {
+    "file": "cs70/Lecture Notes/L16 Intro to Discrete Probability.md",
+    "key": "cs70/l16-intro-to-discrete-probability-7fbab753bc",
+    "format": "md"
+  },
+  "cs70/Lecture Notes/L17 Conditional Probability.md": {
+    "file": "cs70/Lecture Notes/L17 Conditional Probability.md",
+    "key": "cs70/l17-conditional-probability-891af5d72a",
+    "format": "md"
+  },
+  "cs70/Lecture Notes/L18 Combinations of Events.md": {
+    "file": "cs70/Lecture Notes/L18 Combinations of Events.md",
+    "key": "cs70/l18-combinations-of-events-8a7631c1e3",
+    "format": "md"
+  },
+  "cs70/Lecture Notes/L19 Random Variables and Expectation.md": {
+    "file": "cs70/Lecture Notes/L19 Random Variables and Expectation.md",
+    "key": "cs70/l19-random-variables-and-expectation-b9846b7ba8",
+    "format": "md"
+  },
+  "cs70/Lecture Notes/L20 Random Variables II, Linearity of Expectation.md": {
+    "file": "cs70/Lecture Notes/L20 Random Variables II, Linearity of Expectation.md",
+    "key": "cs70/l20-random-variables-ii-linearity-of-expectation-6f2bddb068",
+    "format": "md"
+  },
+  "cs70/Homework/hw02.md": {
+    "file": "cs70/Homework/hw02.md",
+    "key": "cs70/hw02-192392887c",
+    "format": "md"
+  },
+  "cs70/Homework/hw04.md": {
+    "file": "cs70/Homework/hw04.md",
+    "key": "cs70/hw04-dd9e2cfc90",
+    "format": "md"
+  },
+  "cs70/Homework/hw05.md": {
+    "file": "cs70/Homework/hw05.md",
+    "key": "cs70/hw05-ed532187c6",
+    "format": "md"
+  },
+  "cs70/Homework/Solutions/hw07-sol.md": {
+    "file": "cs70/Homework/Solutions/hw07-sol.md",
+    "key": "cs70/hw07-sol-14a680db05",
+    "format": "md"
+  },
+  "cs70/Homework/Solutions/hw08-sol.md": {
+    "file": "cs70/Homework/Solutions/hw08-sol.md",
+    "key": "cs70/hw08-sol-1e85374226",
+    "format": "md"
+  },
+  "cs70/Homework/Solutions/hw09-sol.md": {
+    "file": "cs70/Homework/Solutions/hw09-sol.md",
+    "key": "cs70/hw09-sol-810e015509",
+    "format": "md"
+  },
+  "cs70/Homework/Solutions/hw10-sol.md": {
+    "file": "cs70/Homework/Solutions/hw10-sol.md",
+    "key": "cs70/hw10-sol-2c74253536",
+    "format": "md"
+  },
+  "cs70/Exams and Quizzes/Midterm 1/Chinese Remainder Theorem Approaches.md": {
+    "file": "cs70/Exams and Quizzes/Midterm 1/Chinese Remainder Theorem Approaches.md",
+    "key": "cs70/chinese-remainder-theorem-approaches-3402daf762",
+    "format": "md"
+  },
+  "cs70/Exams and Quizzes/Midterm 1/Extended Euclid.md": {
+    "file": "cs70/Exams and Quizzes/Midterm 1/Extended Euclid.md",
+    "key": "cs70/extended-euclid-8633ac45e2",
+    "format": "md"
+  },
+  "cs70/Exams and Quizzes/Midterm 1/Graph Proofs.md": {
+    "file": "cs70/Exams and Quizzes/Midterm 1/Graph Proofs.md",
+    "key": "cs70/graph-proofs-91401b7b7b",
+    "format": "md"
+  },
+  "cs70/Exams and Quizzes/Midterm 1/Graph Theory Quick Facts.md": {
+    "file": "cs70/Exams and Quizzes/Midterm 1/Graph Theory Quick Facts.md",
+    "key": "cs70/graph-theory-quick-facts-adf169289e",
+    "format": "md"
+  },
+  "cs70/Exams and Quizzes/Midterm 1/Midterm 1 Key Information.md": {
+    "file": "cs70/Exams and Quizzes/Midterm 1/Midterm 1 Key Information.md",
+    "key": "cs70/midterm-1-key-information-3c45fb7d14",
+    "format": "md"
+  },
+  "cs70/Exams and Quizzes/Midterm 1/Midterm 1 Logistics.md": {
+    "file": "cs70/Exams and Quizzes/Midterm 1/Midterm 1 Logistics.md",
+    "key": "cs70/midterm-1-logistics-685c486e88",
+    "format": "md"
+  },
+  "cs70/Exams and Quizzes/Midterm 1/Modular Arithmetic Formulas and Theorems.md": {
+    "file": "cs70/Exams and Quizzes/Midterm 1/Modular Arithmetic Formulas and Theorems.md",
+    "key": "cs70/modular-arithmetic-formulas-and-theorems-b3cf15240a",
+    "format": "md"
+  },
+  "cs70/Course Notes/Cardinality and Injective, Surjective, and Bijective Functions.md": {
+    "file": "cs70/Course Notes/Cardinality and Injective, Surjective, and Bijective Functions.md",
+    "key": "cs70/cardinality-and-injective-surjective-and-bijective-functions-da260e5df5",
+    "format": "md"
+  },
+  "cs70/Course Notes/N0 N1 Sets, Mathematical Notation, and Direct Proof.md": {
+    "file": "cs70/Course Notes/N0 N1 Sets, Mathematical Notation, and Direct Proof.md",
+    "key": "cs70/n0-n1-sets-mathematical-notation-and-direct-proof-bd7be6a444",
+    "format": "md"
+  },
+  "cs70/Course Notes/N2 Propositional Logic, Quantifiers, and Negation.md": {
+    "file": "cs70/Course Notes/N2 Propositional Logic, Quantifiers, and Negation.md",
+    "key": "cs70/n2-propositional-logic-quantifiers-and-negation-714e13abeb",
+    "format": "md"
+  },
+  "cs70/Course Notes/N3 Proof Techniques.md": {
+    "file": "cs70/Course Notes/N3 Proof Techniques.md",
+    "key": "cs70/n3-proof-techniques-338d187856",
+    "format": "md"
+  },
+  "cs70/Course Notes/N4 Mathematical Induction.md": {
+    "file": "cs70/Course Notes/N4 Mathematical Induction.md",
+    "key": "cs70/n4-mathematical-induction-cf81269c65",
+    "format": "md"
+  },
+  "cs70/Course Notes/N5 Modular Arithmetic.md": {
+    "file": "cs70/Course Notes/N5 Modular Arithmetic.md",
+    "key": "cs70/n5-modular-arithmetic-617ccea8b6",
+    "format": "md"
+  },
+  "cs70/Course Notes/N6 Euclid's Algorithm, Unique Factorization, and Modular Arithmetic.md": {
+    "file": "cs70/Course Notes/N6 Euclid's Algorithm, Unique Factorization, and Modular Arithmetic.md",
+    "key": "cs70/n6-euclid-s-algorithm-unique-factorization-and-modular-arithmetic-4d832c47f7",
+    "format": "md"
+  },
+  "cs70/Course Notes/N7 Public Key Cryptography.md": {
+    "file": "cs70/Course Notes/N7 Public Key Cryptography.md",
+    "key": "cs70/n7-public-key-cryptography-e517006a38",
+    "format": "md"
+  },
+  "cs70/Course Notes/N8 Polynomials, Finite Fields, and Secret Sharing.md": {
+    "file": "cs70/Course Notes/N8 Polynomials, Finite Fields, and Secret Sharing.md",
+    "key": "cs70/n8-polynomials-finite-fields-and-secret-sharing-1a4c858b93",
+    "format": "md"
+  },
+  "cs70/Course Notes/N9 Error-Correcting Codes.md": {
+    "file": "cs70/Course Notes/N9 Error-Correcting Codes.md",
+    "key": "cs70/n9-error-correcting-codes-a26a7778c0",
+    "format": "md"
+  },
+  "cs70/Course Notes/N10 Graphs.md": {
+    "file": "cs70/Course Notes/N10 Graphs.md",
+    "key": "cs70/n10-graphs-3fdeb012d2",
+    "format": "md"
+  },
+  "cs70/Course Notes/N11 Stable Matching.md": {
+    "file": "cs70/Course Notes/N11 Stable Matching.md",
+    "key": "cs70/n11-stable-matching-1da8194787",
+    "format": "md"
+  },
+  "cs70/Course Notes/N12 Countability and Infinity.md": {
+    "file": "cs70/Course Notes/N12 Countability and Infinity.md",
+    "key": "cs70/n12-countability-and-infinity-833de1aa93",
+    "format": "md"
+  },
+  "cs70/Course Notes/N13 Self-Reference and Computability.md": {
+    "file": "cs70/Course Notes/N13 Self-Reference and Computability.md",
+    "key": "cs70/n13-self-reference-and-computability-90af14c56d",
+    "format": "md"
+  },
+  "cs70/Course Notes/N15 Counting.md": {
+    "file": "cs70/Course Notes/N15 Counting.md",
+    "key": "cs70/n15-counting-5981b3207b",
+    "format": "md"
+  },
+  "cs70/Course Notes/N16 Introduction to Discrete Probability.md": {
+    "file": "cs70/Course Notes/N16 Introduction to Discrete Probability.md",
+    "key": "cs70/n16-introduction-to-discrete-probability-94d55e0d84",
+    "format": "md"
+  },
+  "cs70/Course Notes/N17 Conditional Probability and Bayes' Rule.md": {
+    "file": "cs70/Course Notes/N17 Conditional Probability and Bayes' Rule.md",
+    "key": "cs70/n17-conditional-probability-and-bayes-rule-0f2694ec6f",
+    "format": "md"
+  },
+  "cs70/Course Notes/N18 Inclusion-Exclusion and Combinations of Events.md": {
+    "file": "cs70/Course Notes/N18 Inclusion-Exclusion and Combinations of Events.md",
+    "key": "cs70/n18-inclusion-exclusion-and-combinations-of-events-85587c5665",
+    "format": "md"
+  },
+  "cs70/Course Notes/N19 Random Variables - Distribution and Expectation.md": {
+    "file": "cs70/Course Notes/N19 Random Variables - Distribution and Expectation.md",
+    "key": "cs70/n19-random-variables-distribution-and-expectation-6a3d142a29",
+    "format": "md"
+  },
+  "cs70/Course Notes/N20 Random Variables II - Linearity of Expectation.md": {
+    "file": "cs70/Course Notes/N20 Random Variables II - Linearity of Expectation.md",
+    "key": "cs70/n20-random-variables-ii-linearity-of-expectation-b856bcc7f8",
+    "format": "md"
+  },
+  "cs70/Content Notes/Direct Proofs.md": {
+    "file": "cs70/Content Notes/Direct Proofs.md",
+    "key": "cs70/direct-proofs-1c3af0d645",
+    "format": "md"
+  },
+  "cs70/Content Notes/Probability Formula Quick Reference.md": {
+    "file": "cs70/Content Notes/Probability Formula Quick Reference.md",
+    "key": "cs70/probability-formula-quick-reference-fdd2df0975",
+    "format": "md"
+  },
+  "cs70/Content Notes/Solving a System of Linear Equations.md": {
+    "file": "cs70/Content Notes/Solving a System of Linear Equations.md",
+    "key": "cs70/solving-a-system-of-linear-equations-d06d8949f7",
+    "format": "md"
+  },
+  "cs70/Content Notes/Tentative Reference for Random Variables & Discrete Distributions, Expectation & Linearity, Joint Distributions & Independence of RVs.md": {
+    "file": "cs70/Content Notes/Tentative Reference for Random Variables & Discrete Distributions, Expectation & Linearity, Joint Distributions & Independence of RVs.md",
+    "key": "cs70/tentative-reference-for-random-variables-discrete-distributions-expect-ff246c0e26",
+    "format": "md"
+  },
+  "cs70/Content Notes/Theorems and Notation Reference Notes.md": {
+    "file": "cs70/Content Notes/Theorems and Notation Reference Notes.md",
+    "key": "cs70/theorems-and-notation-reference-notes-9a7b117350",
+    "format": "md"
+  },
+  "datac104/Lecture Notes/In Class Notes/Week 4 Lecture Notes.md": {
+    "file": "datac104/Lecture Notes/In Class Notes/Week 4 Lecture Notes.md",
+    "key": "datac104/week-4-lecture-notes-da0d75b3bd",
+    "format": "md"
+  },
+  "datac104/Lecture Notes/In Class Notes/Week 6 - Making Social Order.md": {
+    "file": "datac104/Lecture Notes/In Class Notes/Week 6 - Making Social Order.md",
+    "key": "datac104/week-6-making-social-order-47066ecb8b",
+    "format": "md"
+  },
+  "datac104/Lecture Notes/In Class Notes/Week 7 - Automated Decision-Making.md": {
+    "file": "datac104/Lecture Notes/In Class Notes/Week 7 - Automated Decision-Making.md",
+    "key": "datac104/week-7-automated-decision-making-ab291530fc",
+    "format": "md"
+  },
+  "datac104/Lecture Notes/In Class Notes/Week 8 – Data AI Futures.md": {
+    "file": "datac104/Lecture Notes/In Class Notes/Week 8 – Data AI Futures.md",
+    "key": "datac104/week-8-data-ai-futures-369da727a5",
+    "format": "md"
+  },
+  "datac104/Lecture Notes/In Class Notes/Week 9 – Silicon Valley.md": {
+    "file": "datac104/Lecture Notes/In Class Notes/Week 9 – Silicon Valley.md",
+    "key": "datac104/week-9-silicon-valley-f0bf4c9393",
+    "format": "md"
+  },
+  "datac104/Lecture Notes/In Class Notes/Week 10 - Tech Workplace.md": {
+    "file": "datac104/Lecture Notes/In Class Notes/Week 10 - Tech Workplace.md",
+    "key": "datac104/week-10-tech-workplace-838c394d1c",
+    "format": "md"
+  },
+  "datac104/Lecture Notes/In Class Notes/Week 11 - Applied Ethics.md": {
+    "file": "datac104/Lecture Notes/In Class Notes/Week 11 - Applied Ethics.md",
+    "key": "datac104/week-11-applied-ethics-c9ab48e26c",
+    "format": "md"
+  },
+  "datac104/Lecture Notes/L1 - Technology, Politics, and Context 08-26.md": {
+    "file": "datac104/Lecture Notes/L1 - Technology, Politics, and Context 08-26.md",
+    "key": "datac104/l1-technology-politics-and-context-08-26-0765e25fcb",
+    "format": "md"
+  },
+  "datac104/Lecture Notes/L2 Making the Datafied World 2.md": {
+    "file": "datac104/Lecture Notes/L2 Making the Datafied World 2.md",
+    "key": "datac104/l2-making-the-datafied-world-2-e1664fff30",
+    "format": "md"
+  },
+  "datac104/Lecture Notes/L3 Making Data.md": {
+    "file": "datac104/Lecture Notes/L3 Making Data.md",
+    "key": "datac104/l3-making-data-850df88bb0",
+    "format": "md"
+  },
+  "datac104/Lecture Notes/L4 Making Personal Data.md": {
+    "file": "datac104/Lecture Notes/L4 Making Personal Data.md",
+    "key": "datac104/l4-making-personal-data-33c37161d0",
+    "format": "md"
+  },
+  "datac104/Lecture Notes/L5 Making People Out of Data.md": {
+    "file": "datac104/Lecture Notes/L5 Making People Out of Data.md",
+    "key": "datac104/l5-making-people-out-of-data-58a45cbea9",
+    "format": "md"
+  },
+  "datac104/Lecture Notes/L6 Making Robust Knowledge.md": {
+    "file": "datac104/Lecture Notes/L6 Making Robust Knowledge.md",
+    "key": "datac104/l6-making-robust-knowledge-5869751f1a",
+    "format": "md"
+  },
+  "datac104/Lecture Notes/L7 Science in Society.md": {
+    "file": "datac104/Lecture Notes/L7 Science in Society.md",
+    "key": "datac104/l7-science-in-society-1708f655d3",
+    "format": "md"
+  },
+  "datac104/Lecture Notes/L8 Population and States.md": {
+    "file": "datac104/Lecture Notes/L8 Population and States.md",
+    "key": "datac104/l8-population-and-states-ef485ebdfa",
+    "format": "md"
+  },
+  "datac104/Lecture Notes/L9 Eugenics and Statistics.md": {
+    "file": "datac104/Lecture Notes/L9 Eugenics and Statistics.md",
+    "key": "datac104/l9-eugenics-and-statistics-347f725488",
+    "format": "md"
+  },
+  "datac104/Lecture Notes/L10 Taking the Global View.md": {
+    "file": "datac104/Lecture Notes/L10 Taking the Global View.md",
+    "key": "datac104/l10-taking-the-global-view-6eef281732",
+    "format": "md"
+  },
+  "datac104/Lecture Notes/L12 Privacy in the World.md": {
+    "file": "datac104/Lecture Notes/L12 Privacy in the World.md",
+    "key": "datac104/l12-privacy-in-the-world-b47a9672a5",
+    "format": "md"
+  },
+  "datac104/Lecture Notes/L15 Making Decisions.md": {
+    "file": "datac104/Lecture Notes/L15 Making Decisions.md",
+    "key": "datac104/l15-making-decisions-4afb050627",
+    "format": "md"
+  },
+  "datac104/Lecture Notes/L16 Fairness Automated Decision-Making I.md": {
+    "file": "datac104/Lecture Notes/L16 Fairness Automated Decision-Making I.md",
+    "key": "datac104/l16-fairness-automated-decision-making-i-fbff21899c",
+    "format": "md"
+  },
+  "datac104/Lecture Notes/L17 Automated Decision Making II - Prediction.md": {
+    "file": "datac104/Lecture Notes/L17 Automated Decision Making II - Prediction.md",
+    "key": "datac104/l17-automated-decision-making-ii-prediction-10899d1fd2",
+    "format": "md"
+  },
+  "datac104/Lecture Notes/L18 Automated Decision Making III - Risk.md": {
+    "file": "datac104/Lecture Notes/L18 Automated Decision Making III - Risk.md",
+    "key": "datac104/l18-automated-decision-making-iii-risk-01fb2cdd5c",
+    "format": "md"
+  },
+  "datac104/Lecture Notes/L19 Data Futures.md": {
+    "file": "datac104/Lecture Notes/L19 Data Futures.md",
+    "key": "datac104/l19-data-futures-130c5adff5",
+    "format": "md"
+  },
+  "datac104/Lecture Notes/L20 AI Futures.md": {
+    "file": "datac104/Lecture Notes/L20 AI Futures.md",
+    "key": "datac104/l20-ai-futures-71b96a8aae",
+    "format": "md"
+  },
+  "datac104/Lecture Notes/L21 Automation and Labor.md": {
+    "file": "datac104/Lecture Notes/L21 Automation and Labor.md",
+    "key": "datac104/l21-automation-and-labor-d4b99b81e5",
+    "format": "md"
+  },
+  "datac104/Lecture Notes/L22 Making Silicon Valley I.md": {
+    "file": "datac104/Lecture Notes/L22 Making Silicon Valley I.md",
+    "key": "datac104/l22-making-silicon-valley-i-71c7816263",
+    "format": "md"
+  },
+  "datac104/Lecture Notes/L23 Making Silicon Valley II.md": {
+    "file": "datac104/Lecture Notes/L23 Making Silicon Valley II.md",
+    "key": "datac104/l23-making-silicon-valley-ii-b2e97b60de",
+    "format": "md"
+  },
+  "datac104/Lecture Notes/L24 Making Silicon Valley III.md": {
+    "file": "datac104/Lecture Notes/L24 Making Silicon Valley III.md",
+    "key": "datac104/l24-making-silicon-valley-iii-3f6d99fae0",
+    "format": "md"
+  },
+  "datac104/Lecture Notes/L25 The Tech Workplace Part 1.md": {
+    "file": "datac104/Lecture Notes/L25 The Tech Workplace Part 1.md",
+    "key": "datac104/l25-the-tech-workplace-part-1-ef393342be",
+    "format": "md"
+  },
+  "datac104/Lecture Notes/L27 Environmental Contexts and Consequences of Data.md": {
+    "file": "datac104/Lecture Notes/L27 Environmental Contexts and Consequences of Data.md",
+    "key": "datac104/l27-environmental-contexts-and-consequences-of-data-5bbe11539f",
+    "format": "md"
+  },
+  "datac104/Course Notes/Agency (HCE).md": {
+    "file": "datac104/Course Notes/Agency (HCE).md",
+    "key": "datac104/agency-hce-3ae2d40ea0",
+    "format": "md"
+  },
+  "datac104/Course Notes/Classification (HCE).md": {
+    "file": "datac104/Course Notes/Classification (HCE).md",
+    "key": "datac104/classification-hce-92945f03b5",
+    "format": "md"
+  },
+  "datac104/Course Notes/Co-Production (HCE).md": {
+    "file": "datac104/Course Notes/Co-Production (HCE).md",
+    "key": "datac104/co-production-hce-86a7e0242f",
+    "format": "md"
+  },
+  "datac104/Course Notes/Course Review Guide.md": {
+    "file": "datac104/Course Notes/Course Review Guide.md",
+    "key": "datac104/course-review-guide-e3747d4a7c",
+    "format": "md"
+  },
+  "datac104/Course Notes/Identity and Positionality (HCE).md": {
+    "file": "datac104/Course Notes/Identity and Positionality (HCE).md",
+    "key": "datac104/identity-and-positionality-hce-f7c43c1969",
+    "format": "md"
+  },
+  "datac104/Course Notes/Labor (HCE).md": {
+    "file": "datac104/Course Notes/Labor (HCE).md",
+    "key": "datac104/labor-hce-a4158a97b7",
+    "format": "md"
+  },
+  "datac104/Course Notes/Narratives (HCE).md": {
+    "file": "datac104/Course Notes/Narratives (HCE).md",
+    "key": "datac104/narratives-hce-04874a8bc1",
+    "format": "md"
+  },
+  "datac104/Course Notes/Performativity (HCE).md": {
+    "file": "datac104/Course Notes/Performativity (HCE).md",
+    "key": "datac104/performativity-hce-730182df4b",
+    "format": "md"
+  },
+  "datac104/Course Notes/Power (HCE).md": {
+    "file": "datac104/Course Notes/Power (HCE).md",
+    "key": "datac104/power-hce-a5fc3090a1",
+    "format": "md"
+  },
+  "datac104/Course Notes/Representation (HCE).md": {
+    "file": "datac104/Course Notes/Representation (HCE).md",
+    "key": "datac104/representation-hce-cd9ff01995",
+    "format": "md"
+  },
+  "datac104/Course Notes/Sociotechnical Systems (HCE).md": {
+    "file": "datac104/Course Notes/Sociotechnical Systems (HCE).md",
+    "key": "datac104/sociotechnical-systems-hce-5b2c3da0eb",
+    "format": "md"
+  },
+  "datac104/Course Notes/The Human Contexts and Ethics Toolkit.md": {
+    "file": "datac104/Course Notes/The Human Contexts and Ethics Toolkit.md",
+    "key": "datac104/the-human-contexts-and-ethics-toolkit-482d95a33e",
+    "format": "md"
+  },
+  "datac104/Course Notes/Vulnerability (HCE).md": {
+    "file": "datac104/Course Notes/Vulnerability (HCE).md",
+    "key": "datac104/vulnerability-hce-a264a2f6f6",
+    "format": "md"
+  },
+  "datac104/Reading Notes/Week 1/Do Artifacts Have Politics by Langdon Winner.md": {
+    "file": "datac104/Reading Notes/Week 1/Do Artifacts Have Politics by Langdon Winner.md",
+    "key": "datac104/do-artifacts-have-politics-by-langdon-winner-be74379b5d",
+    "format": "md"
+  },
+  "datac104/Reading Notes/Week 2/Ian Hacking - Making Up People.md": {
+    "file": "datac104/Reading Notes/Week 2/Ian Hacking - Making Up People.md",
+    "key": "datac104/ian-hacking-making-up-people-15ba935abc",
+    "format": "md"
+  },
+  "datac104/Reading Notes/Week 2/Race Classification and Reclassification under Apartheid.md": {
+    "file": "datac104/Reading Notes/Week 2/Race Classification and Reclassification under Apartheid.md",
+    "key": "datac104/race-classification-and-reclassification-under-apartheid-fc1f1aa52b",
+    "format": "md"
+  },
+  "datac104/Reading Notes/Week 3/Collins and Pinch - Chernobyl and the Cumbrian Sheepfarmers.md": {
+    "file": "datac104/Reading Notes/Week 3/Collins and Pinch - Chernobyl and the Cumbrian Sheepfarmers.md",
+    "key": "datac104/collins-and-pinch-chernobyl-and-the-cumbrian-sheepfarmers-277f84743f",
+    "format": "md"
+  },
+  "datac104/Reading Notes/Week 3/Thomas Kuhn's The Structure of Scientific Revolutions.md": {
+    "file": "datac104/Reading Notes/Week 3/Thomas Kuhn's The Structure of Scientific Revolutions.md",
+    "key": "datac104/thomas-kuhn-s-the-structure-of-scientific-revolutions-6f211565c1",
+    "format": "md"
+  },
+  "datac104/Reading Notes/Week 4/Aubrey Clayton's How Eugenics Shaped Statistics.md": {
+    "file": "datac104/Reading Notes/Week 4/Aubrey Clayton's How Eugenics Shaped Statistics.md",
+    "key": "datac104/aubrey-clayton-s-how-eugenics-shaped-statistics-d2ac59e5e1",
+    "format": "md"
+  },
+  "datac104/Reading Notes/Week 4/James C. Scott's Seeing Like a State (Chapter 1).md": {
+    "file": "datac104/Reading Notes/Week 4/James C. Scott's Seeing Like a State (Chapter 1).md",
+    "key": "datac104/james-c-scott-s-seeing-like-a-state-chapter-1-064dd3991e",
+    "format": "md"
+  },
+  "datac104/Reading Notes/Week 4/Why Are Certain Countries Poor - Dismantling Comparative Models of Development.md": {
+    "file": "datac104/Reading Notes/Week 4/Why Are Certain Countries Poor - Dismantling Comparative Models of Development.md",
+    "key": "datac104/why-are-certain-countries-poor-dismantling-comparative-models-of-devel-685dca8663",
+    "format": "md"
+  },
+  "datac104/Reading Notes/Week 5/Contextual Integrity Cheat Sheet.md": {
+    "file": "datac104/Reading Notes/Week 5/Contextual Integrity Cheat Sheet.md",
+    "key": "datac104/contextual-integrity-cheat-sheet-a288ce673a",
+    "format": "md"
+  },
+  "datac104/Reading Notes/Week 5/Helen Nissenbaum’s Theory of Contextual Integrity.md": {
+    "file": "datac104/Reading Notes/Week 5/Helen Nissenbaum’s Theory of Contextual Integrity.md",
+    "key": "datac104/helen-nissenbaums-theory-of-contextual-integrity-dff9d13820",
+    "format": "md"
+  },
+  "datac104/Reading Notes/Week 5/The Right to Oblivion - Privacy and the Good Life.md": {
+    "file": "datac104/Reading Notes/Week 5/The Right to Oblivion - Privacy and the Good Life.md",
+    "key": "datac104/the-right-to-oblivion-privacy-and-the-good-life-b015693f64",
+    "format": "md"
+  },
+  "datac104/Reading Notes/Week 6/Michel Foucault's Discipline and Punish (Panopticism).md": {
+    "file": "datac104/Reading Notes/Week 6/Michel Foucault's Discipline and Punish (Panopticism).md",
+    "key": "datac104/michel-foucault-s-discipline-and-punish-panopticism-2f49445104",
+    "format": "md"
+  },
+  "datac104/Reading Notes/Week 6/Theodore Porter's Objectivity and Authority - How French Engineers Reduced Public Utility to Numbers.md": {
+    "file": "datac104/Reading Notes/Week 6/Theodore Porter's Objectivity and Authority - How French Engineers Reduced Public Utility to Numbers.md",
+    "key": "datac104/theodore-porter-s-objectivity-and-authority-how-french-engineers-reduc-b5c204ed79",
+    "format": "md"
+  },
+  "datac104/Reading Notes/Week 7/Fourcade and Healy – Classification Situations.md": {
+    "file": "datac104/Reading Notes/Week 7/Fourcade and Healy – Classification Situations.md",
+    "key": "datac104/fourcade-and-healy-classification-situations-9e7abc0a13",
+    "format": "md"
+  },
+  "datac104/Reading Notes/Week 7/Virginia Eubanks' Automating Inequality (Chapter 4).md": {
+    "file": "datac104/Reading Notes/Week 7/Virginia Eubanks' Automating Inequality (Chapter 4).md",
+    "key": "datac104/virginia-eubanks-automating-inequality-chapter-4-8edda3ef03",
+    "format": "md"
+  },
+  "datac104/Reading Notes/Week 8/David F. Noble - Social Choice in Machine Design The Case of Automatically Controlled Machine Tools.md": {
+    "file": "datac104/Reading Notes/Week 8/David F. Noble - Social Choice in Machine Design The Case of Automatically Controlled Machine Tools.md",
+    "key": "datac104/david-f-noble-social-choice-in-machine-design-the-case-of-automaticall-788880b0e0",
+    "format": "md"
+  },
+  "datac104/Reading Notes/Week 8/Hildebrandt – Introduction-Dianas OnLife World.md": {
+    "file": "datac104/Reading Notes/Week 8/Hildebrandt – Introduction-Dianas OnLife World.md",
+    "key": "datac104/hildebrandt-introduction-dianas-onlife-world-5078f2215a",
+    "format": "md"
+  },
+  "datac104/Reading Notes/Week 8/Marc Andreessen - The Techno-Optimist Manifesto.md": {
+    "file": "datac104/Reading Notes/Week 8/Marc Andreessen - The Techno-Optimist Manifesto.md",
+    "key": "datac104/marc-andreessen-the-techno-optimist-manifesto-76ae39ae88",
+    "format": "md"
+  },
+  "datac104/Reading Notes/Week 8/Ursula K. Le Guin - The Carrier Bag Theory of Fiction.md": {
+    "file": "datac104/Reading Notes/Week 8/Ursula K. Le Guin - The Carrier Bag Theory of Fiction.md",
+    "key": "datac104/ursula-k-le-guin-the-carrier-bag-theory-of-fiction-01ccd6ec20",
+    "format": "md"
+  },
+  "datac104/Reading Notes/Week 9/Kate Crawford - The Atlas of AI (Chapter 2 Labor).md": {
+    "file": "datac104/Reading Notes/Week 9/Kate Crawford - The Atlas of AI (Chapter 2 Labor).md",
+    "key": "datac104/kate-crawford-the-atlas-of-ai-chapter-2-labor-afc3bf7b45",
+    "format": "md"
+  },
+  "datac104/Reading Notes/Week 9/Mona Sloane - The Business of AI.md": {
+    "file": "datac104/Reading Notes/Week 9/Mona Sloane - The Business of AI.md",
+    "key": "datac104/mona-sloane-the-business-of-ai-28d24fa627",
+    "format": "md"
+  },
+  "datac104/Reading Notes/Week 9/Tianyu M Fang - Silicon Valley Goes To War.md": {
+    "file": "datac104/Reading Notes/Week 9/Tianyu M Fang - Silicon Valley Goes To War.md",
+    "key": "datac104/tianyu-m-fang-silicon-valley-goes-to-war-6a48417b49",
+    "format": "md"
+  },
+  "datac104/Reading Notes/Week 9/Tom Nicholas The Emergence of Silicon Valley.md": {
+    "file": "datac104/Reading Notes/Week 9/Tom Nicholas The Emergence of Silicon Valley.md",
+    "key": "datac104/tom-nicholas-the-emergence-of-silicon-valley-5fcfdc2819",
+    "format": "md"
+  },
+  "datac104/Reading Notes/Week 10/Anna Wiener – Uncanny Valley.md": {
+    "file": "datac104/Reading Notes/Week 10/Anna Wiener – Uncanny Valley.md",
+    "key": "datac104/anna-wiener-uncanny-valley-dba3d42eee",
+    "format": "md"
+  },
+  "datac104/Reading Notes/Week 10/Theo Baker – The Stanford Freshmen Who Want to Rule the World.md": {
+    "file": "datac104/Reading Notes/Week 10/Theo Baker – The Stanford Freshmen Who Want to Rule the World.md",
+    "key": "datac104/theo-baker-the-stanford-freshmen-who-want-to-rule-the-world-ca21434575",
+    "format": "md"
+  },
+  "datac104/Reading Notes/Week 11/Amia Srinivasan – Stop the Robot Apocalypse.md": {
+    "file": "datac104/Reading Notes/Week 11/Amia Srinivasan – Stop the Robot Apocalypse.md",
+    "key": "datac104/amia-srinivasan-stop-the-robot-apocalypse-20562527b4",
+    "format": "md"
+  },
+  "datac104/Reading Notes/Week 11/Jasmine Sun no data centers in my backyard.md": {
+    "file": "datac104/Reading Notes/Week 11/Jasmine Sun no data centers in my backyard.md",
+    "key": "datac104/jasmine-sun-no-data-centers-in-my-backyard-10d9d7e7bc",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 1/Author Arguments/Bowker and Star.md": {
+    "file": "datac104/Review Notes/Midterm 1/Author Arguments/Bowker and Star.md",
+    "key": "datac104/bowker-and-star-1e24d7dade",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 1/Author Arguments/Brooks.md": {
+    "file": "datac104/Review Notes/Midterm 1/Author Arguments/Brooks.md",
+    "key": "datac104/brooks-1d2b2afe05",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 1/Author Arguments/Clayton.md": {
+    "file": "datac104/Review Notes/Midterm 1/Author Arguments/Clayton.md",
+    "key": "datac104/clayton-52d419c876",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 1/Author Arguments/Collins and Pinch.md": {
+    "file": "datac104/Review Notes/Midterm 1/Author Arguments/Collins and Pinch.md",
+    "key": "datac104/collins-and-pinch-64f2030d1d",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 1/Author Arguments/Hacking.md": {
+    "file": "datac104/Review Notes/Midterm 1/Author Arguments/Hacking.md",
+    "key": "datac104/hacking-d8ab2273ae",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 1/Author Arguments/Scott.md": {
+    "file": "datac104/Review Notes/Midterm 1/Author Arguments/Scott.md",
+    "key": "datac104/scott-e7e391228d",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 1/Author Arguments/Thomas Kuhn.md": {
+    "file": "datac104/Review Notes/Midterm 1/Author Arguments/Thomas Kuhn.md",
+    "key": "datac104/thomas-kuhn-4f6adacf64",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 1/Key Cases and Examples/Bay Area Air Quality Management District.md": {
+    "file": "datac104/Review Notes/Midterm 1/Key Cases and Examples/Bay Area Air Quality Management District.md",
+    "key": "datac104/bay-area-air-quality-management-district-86517584cc",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 1/Key Cases and Examples/California Mechanical Tomato Harvester.md": {
+    "file": "datac104/Review Notes/Midterm 1/Key Cases and Examples/California Mechanical Tomato Harvester.md",
+    "key": "datac104/california-mechanical-tomato-harvester-71d43ff723",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 1/Key Cases and Examples/Cumbrian Sheep Farmers and Chernobyl.md": {
+    "file": "datac104/Review Notes/Midterm 1/Key Cases and Examples/Cumbrian Sheep Farmers and Chernobyl.md",
+    "key": "datac104/cumbrian-sheep-farmers-and-chernobyl-00e6e945d0",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 1/Key Cases and Examples/Eugenic Statistics.md": {
+    "file": "datac104/Review Notes/Midterm 1/Key Cases and Examples/Eugenic Statistics.md",
+    "key": "datac104/eugenic-statistics-f56b7b15ec",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 1/Key Cases and Examples/Free Speech Movement and IBM Punch Cards.md": {
+    "file": "datac104/Review Notes/Midterm 1/Key Cases and Examples/Free Speech Movement and IBM Punch Cards.md",
+    "key": "datac104/free-speech-movement-and-ibm-punch-cards-dd656cd3ef",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 1/Key Cases and Examples/Gapminder.md": {
+    "file": "datac104/Review Notes/Midterm 1/Key Cases and Examples/Gapminder.md",
+    "key": "datac104/gapminder-311a9ed9a6",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 1/Key Cases and Examples/Graunt Bills of Mortality.md": {
+    "file": "datac104/Review Notes/Midterm 1/Key Cases and Examples/Graunt Bills of Mortality.md",
+    "key": "datac104/graunt-bills-of-mortality-dc8c9fff1f",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 1/Key Cases and Examples/Incommensurability.md": {
+    "file": "datac104/Review Notes/Midterm 1/Key Cases and Examples/Incommensurability.md",
+    "key": "datac104/incommensurability-5dd51585ab",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 1/Key Cases and Examples/LAquilla.md": {
+    "file": "datac104/Review Notes/Midterm 1/Key Cases and Examples/LAquilla.md",
+    "key": "datac104/laquilla-6f2a8c6021",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 1/Key Cases and Examples/Making Up People.md": {
+    "file": "datac104/Review Notes/Midterm 1/Key Cases and Examples/Making Up People.md",
+    "key": "datac104/making-up-people-3a77956cf5",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 1/Key Cases and Examples/McCormick's Pneumatic Molding Machines.md": {
+    "file": "datac104/Review Notes/Midterm 1/Key Cases and Examples/McCormick's Pneumatic Molding Machines.md",
+    "key": "datac104/mccormick-s-pneumatic-molding-machines-b069e2c5fd",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 1/Key Cases and Examples/Paradigm.md": {
+    "file": "datac104/Review Notes/Midterm 1/Key Cases and Examples/Paradigm.md",
+    "key": "datac104/paradigm-9219555056",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 1/Key Cases and Examples/Quetelet Average Man.md": {
+    "file": "datac104/Review Notes/Midterm 1/Key Cases and Examples/Quetelet Average Man.md",
+    "key": "datac104/quetelet-average-man-ac321da1c2",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 1/Key Cases and Examples/Race Classification & Reclassification under Apartheid South Africa.md": {
+    "file": "datac104/Review Notes/Midterm 1/Key Cases and Examples/Race Classification & Reclassification under Apartheid South Africa.md",
+    "key": "datac104/race-classification-reclassification-under-apartheid-south-africa-5b9ef18df9",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 1/Key Cases and Examples/Robert Moses's Parkway Overpasses on Long Island.md": {
+    "file": "datac104/Review Notes/Midterm 1/Key Cases and Examples/Robert Moses's Parkway Overpasses on Long Island.md",
+    "key": "datac104/robert-moses-s-parkway-overpasses-on-long-island-8e1c4bc017",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 1/Key Cases and Examples/Scientific Forestry.md": {
+    "file": "datac104/Review Notes/Midterm 1/Key Cases and Examples/Scientific Forestry.md",
+    "key": "datac104/scientific-forestry-3c51810ab6",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 1/Key Cases and Examples/Sierra Leon Healthcare vs UK NHS.md": {
+    "file": "datac104/Review Notes/Midterm 1/Key Cases and Examples/Sierra Leon Healthcare vs UK NHS.md",
+    "key": "datac104/sierra-leon-healthcare-vs-uk-nhs-b114fe033b",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 1/Key Cases and Examples/The Copnerican Revolution.md": {
+    "file": "datac104/Review Notes/Midterm 1/Key Cases and Examples/The Copnerican Revolution.md",
+    "key": "datac104/the-copnerican-revolution-573a84aa6a",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 1/Key Cases and Examples/YieldStart and Rental Pricing Algorithms.md": {
+    "file": "datac104/Review Notes/Midterm 1/Key Cases and Examples/YieldStart and Rental Pricing Algorithms.md",
+    "key": "datac104/yieldstart-and-rental-pricing-algorithms-a9daf2f4c6",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 1/Key Defintions/Abstraction.md": {
+    "file": "datac104/Review Notes/Midterm 1/Key Defintions/Abstraction.md",
+    "key": "datac104/abstraction-74880697a2",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 1/Key Defintions/Administrative State.md": {
+    "file": "datac104/Review Notes/Midterm 1/Key Defintions/Administrative State.md",
+    "key": "datac104/administrative-state-ac729d9a01",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 1/Key Defintions/Agency.md": {
+    "file": "datac104/Review Notes/Midterm 1/Key Defintions/Agency.md",
+    "key": "datac104/agency-fa5dcb8394",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 1/Key Defintions/AQI.md": {
+    "file": "datac104/Review Notes/Midterm 1/Key Defintions/AQI.md",
+    "key": "datac104/aqi-2914e171c1",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 1/Key Defintions/Biopower.md": {
+    "file": "datac104/Review Notes/Midterm 1/Key Defintions/Biopower.md",
+    "key": "datac104/biopower-a064750395",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 1/Key Defintions/Circulation.md": {
+    "file": "datac104/Review Notes/Midterm 1/Key Defintions/Circulation.md",
+    "key": "datac104/circulation-fd3b86c7ae",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 1/Key Defintions/Co-Production.md": {
+    "file": "datac104/Review Notes/Midterm 1/Key Defintions/Co-Production.md",
+    "key": "datac104/co-production-e6990922a4",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 1/Key Defintions/Cyborgs.md": {
+    "file": "datac104/Review Notes/Midterm 1/Key Defintions/Cyborgs.md",
+    "key": "datac104/cyborgs-e8fdec71ea",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 1/Key Defintions/Database.md": {
+    "file": "datac104/Review Notes/Midterm 1/Key Defintions/Database.md",
+    "key": "datac104/database-d604e3b22d",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 1/Key Defintions/Datafied World.md": {
+    "file": "datac104/Review Notes/Midterm 1/Key Defintions/Datafied World.md",
+    "key": "datac104/datafied-world-a970170252",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 1/Key Defintions/Demography.md": {
+    "file": "datac104/Review Notes/Midterm 1/Key Defintions/Demography.md",
+    "key": "datac104/demography-122f46931c",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 1/Key Defintions/Development.md": {
+    "file": "datac104/Review Notes/Midterm 1/Key Defintions/Development.md",
+    "key": "datac104/development-fb305b199b",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 1/Key Defintions/Eugenics.md": {
+    "file": "datac104/Review Notes/Midterm 1/Key Defintions/Eugenics.md",
+    "key": "datac104/eugenics-1ab2193387",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 1/Key Defintions/Everydayness.md": {
+    "file": "datac104/Review Notes/Midterm 1/Key Defintions/Everydayness.md",
+    "key": "datac104/everydayness-e40817ab2a",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 1/Key Defintions/Expertise.md": {
+    "file": "datac104/Review Notes/Midterm 1/Key Defintions/Expertise.md",
+    "key": "datac104/expertise-539f94116e",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 1/Key Defintions/Family Planning.md": {
+    "file": "datac104/Review Notes/Midterm 1/Key Defintions/Family Planning.md",
+    "key": "datac104/family-planning-e165aba747",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 1/Key Defintions/Golem.md": {
+    "file": "datac104/Review Notes/Midterm 1/Key Defintions/Golem.md",
+    "key": "datac104/golem-9982f6483d",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 1/Key Defintions/IMF.md": {
+    "file": "datac104/Review Notes/Midterm 1/Key Defintions/IMF.md",
+    "key": "datac104/imf-d6950ffaed",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 1/Key Defintions/Karl Pearson.md": {
+    "file": "datac104/Review Notes/Midterm 1/Key Defintions/Karl Pearson.md",
+    "key": "datac104/karl-pearson-800056eac2",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 1/Key Defintions/Labor.md": {
+    "file": "datac104/Review Notes/Midterm 1/Key Defintions/Labor.md",
+    "key": "datac104/labor-04dc665ba5",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 1/Key Defintions/Lewis Terman and IQ Testing.md": {
+    "file": "datac104/Review Notes/Midterm 1/Key Defintions/Lewis Terman and IQ Testing.md",
+    "key": "datac104/lewis-terman-and-iq-testing-5e4ad0a9dc",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 1/Key Defintions/Looping Effect.md": {
+    "file": "datac104/Review Notes/Midterm 1/Key Defintions/Looping Effect.md",
+    "key": "datac104/looping-effect-872f73a8a4",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 1/Key Defintions/Mediation.md": {
+    "file": "datac104/Review Notes/Midterm 1/Key Defintions/Mediation.md",
+    "key": "datac104/mediation-bbd4685811",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 1/Key Defintions/Naturalize and Denaturalize.md": {
+    "file": "datac104/Review Notes/Midterm 1/Key Defintions/Naturalize and Denaturalize.md",
+    "key": "datac104/naturalize-and-denaturalize-6004a2d5b2",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 1/Key Defintions/Normal Curve.md": {
+    "file": "datac104/Review Notes/Midterm 1/Key Defintions/Normal Curve.md",
+    "key": "datac104/normal-curve-71b5102aec",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 1/Key Defintions/Normal Science.md": {
+    "file": "datac104/Review Notes/Midterm 1/Key Defintions/Normal Science.md",
+    "key": "datac104/normal-science-c76c1ad551",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 1/Key Defintions/Perspective.md": {
+    "file": "datac104/Review Notes/Midterm 1/Key Defintions/Perspective.md",
+    "key": "datac104/perspective-5b7fbcc09c",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 1/Key Defintions/Political Arithmetic(k).md": {
+    "file": "datac104/Review Notes/Midterm 1/Key Defintions/Political Arithmetic(k).md",
+    "key": "datac104/political-arithmetic-k-51ab81eb1a",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 1/Key Defintions/Population.md": {
+    "file": "datac104/Review Notes/Midterm 1/Key Defintions/Population.md",
+    "key": "datac104/population-1a88293b6d",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 1/Key Defintions/Problem of Legitimation vs Problem of Extension.md": {
+    "file": "datac104/Review Notes/Midterm 1/Key Defintions/Problem of Legitimation vs Problem of Extension.md",
+    "key": "datac104/problem-of-legitimation-vs-problem-of-extension-23a3c79c97",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 1/Key Defintions/Public Trust.md": {
+    "file": "datac104/Review Notes/Midterm 1/Key Defintions/Public Trust.md",
+    "key": "datac104/public-trust-f3f96ab658",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 1/Key Defintions/Regression to Mediocrity.md": {
+    "file": "datac104/Review Notes/Midterm 1/Key Defintions/Regression to Mediocrity.md",
+    "key": "datac104/regression-to-mediocrity-e4d9023962",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 1/Key Defintions/Relationality.md": {
+    "file": "datac104/Review Notes/Midterm 1/Key Defintions/Relationality.md",
+    "key": "datac104/relationality-7a500491d6",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 1/Key Defintions/Representational Harm.md": {
+    "file": "datac104/Review Notes/Midterm 1/Key Defintions/Representational Harm.md",
+    "key": "datac104/representational-harm-6a46d855db",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 1/Key Defintions/Ronald Fisher.md": {
+    "file": "datac104/Review Notes/Midterm 1/Key Defintions/Ronald Fisher.md",
+    "key": "datac104/ronald-fisher-a7a81a9a68",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 1/Key Defintions/Scientific Community.md": {
+    "file": "datac104/Review Notes/Midterm 1/Key Defintions/Scientific Community.md",
+    "key": "datac104/scientific-community-26f55c7f05",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 1/Key Defintions/Selection.md": {
+    "file": "datac104/Review Notes/Midterm 1/Key Defintions/Selection.md",
+    "key": "datac104/selection-cd079e5204",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 1/Key Defintions/Self-Making.md": {
+    "file": "datac104/Review Notes/Midterm 1/Key Defintions/Self-Making.md",
+    "key": "datac104/self-making-9afe6f273d",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 1/Key Defintions/Self-Quantification.md": {
+    "file": "datac104/Review Notes/Midterm 1/Key Defintions/Self-Quantification.md",
+    "key": "datac104/self-quantification-ac0b03658c",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 1/Key Defintions/Significance Testing.md": {
+    "file": "datac104/Review Notes/Midterm 1/Key Defintions/Significance Testing.md",
+    "key": "datac104/significance-testing-ea7ded7f16",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 1/Key Defintions/State.md": {
+    "file": "datac104/Review Notes/Midterm 1/Key Defintions/State.md",
+    "key": "datac104/state-bf4c58eb73",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 1/Key Defintions/Statistik.md": {
+    "file": "datac104/Review Notes/Midterm 1/Key Defintions/Statistik.md",
+    "key": "datac104/statistik-df6adfbc62",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 1/Key Defintions/Technological Determinism.md": {
+    "file": "datac104/Review Notes/Midterm 1/Key Defintions/Technological Determinism.md",
+    "key": "datac104/technological-determinism-459ab33649",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 1/Key Defintions/Theory-Dependence of Observation.md": {
+    "file": "datac104/Review Notes/Midterm 1/Key Defintions/Theory-Dependence of Observation.md",
+    "key": "datac104/theory-dependence-of-observation-4d5778f589",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 1/Key Defintions/Torque.md": {
+    "file": "datac104/Review Notes/Midterm 1/Key Defintions/Torque.md",
+    "key": "datac104/torque-38a467eb0f",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 1/Key Defintions/Underdetermination.md": {
+    "file": "datac104/Review Notes/Midterm 1/Key Defintions/Underdetermination.md",
+    "key": "datac104/underdetermination-7c606d785c",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 1/Key Defintions/United Nations.md": {
+    "file": "datac104/Review Notes/Midterm 1/Key Defintions/United Nations.md",
+    "key": "datac104/united-nations-7d193d5810",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 1/Key Defintions/View from Above Below.md": {
+    "file": "datac104/Review Notes/Midterm 1/Key Defintions/View from Above Below.md",
+    "key": "datac104/view-from-above-below-8f3e0a6351",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 1/Key Defintions/World-Making.md": {
+    "file": "datac104/Review Notes/Midterm 1/Key Defintions/World-Making.md",
+    "key": "datac104/world-making-570d27faea",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 1/Midterm 1 Review Notes.md": {
+    "file": "datac104/Review Notes/Midterm 1/Midterm 1 Review Notes.md",
+    "key": "datac104/midterm-1-review-notes-947f023832",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 1/Midterm 1 Study Guide.md": {
+    "file": "datac104/Review Notes/Midterm 1/Midterm 1 Study Guide.md",
+    "key": "datac104/midterm-1-study-guide-d44ab67c25",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Author Arguments/David Noble.md": {
+    "file": "datac104/Review Notes/Midterm 2/Author Arguments/David Noble.md",
+    "key": "datac104/david-noble-ce67de74ac",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Author Arguments/Kate Crawford.md": {
+    "file": "datac104/Review Notes/Midterm 2/Author Arguments/Kate Crawford.md",
+    "key": "datac104/kate-crawford-beb29f253d",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Author Arguments/Lowry Pressly.md": {
+    "file": "datac104/Review Notes/Midterm 2/Author Arguments/Lowry Pressly.md",
+    "key": "datac104/lowry-pressly-57efd050aa",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Author Arguments/Marc Andreessen.md": {
+    "file": "datac104/Review Notes/Midterm 2/Author Arguments/Marc Andreessen.md",
+    "key": "datac104/marc-andreessen-c7a0026004",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Author Arguments/Michel Foucault.md": {
+    "file": "datac104/Review Notes/Midterm 2/Author Arguments/Michel Foucault.md",
+    "key": "datac104/michel-foucault-d55c93bbff",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Author Arguments/Mireille Hildebrandt.md": {
+    "file": "datac104/Review Notes/Midterm 2/Author Arguments/Mireille Hildebrandt.md",
+    "key": "datac104/mireille-hildebrandt-4d30a72c3a",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Author Arguments/Mona Sloane.md": {
+    "file": "datac104/Review Notes/Midterm 2/Author Arguments/Mona Sloane.md",
+    "key": "datac104/mona-sloane-999e1b5a06",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Author Arguments/Nathan Malkin.md": {
+    "file": "datac104/Review Notes/Midterm 2/Author Arguments/Nathan Malkin.md",
+    "key": "datac104/nathan-malkin-d4d80cf7e9",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Author Arguments/Theodore Porter.md": {
+    "file": "datac104/Review Notes/Midterm 2/Author Arguments/Theodore Porter.md",
+    "key": "datac104/theodore-porter-1e3a22551c",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Author Arguments/Tianyu M. Fang.md": {
+    "file": "datac104/Review Notes/Midterm 2/Author Arguments/Tianyu M. Fang.md",
+    "key": "datac104/tianyu-m-fang-47f124316b",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Author Arguments/Tom Nicholas.md": {
+    "file": "datac104/Review Notes/Midterm 2/Author Arguments/Tom Nicholas.md",
+    "key": "datac104/tom-nicholas-cd90f01b67",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Author Arguments/Ursula K. Le Guin.md": {
+    "file": "datac104/Review Notes/Midterm 2/Author Arguments/Ursula K. Le Guin.md",
+    "key": "datac104/ursula-k-le-guin-94b5c6b13e",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Author Arguments/Virginia Eubanks.md": {
+    "file": "datac104/Review Notes/Midterm 2/Author Arguments/Virginia Eubanks.md",
+    "key": "datac104/virginia-eubanks-b8b07a9012",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Case Studies/2001 A Space Odyssey.md": {
+    "file": "datac104/Review Notes/Midterm 2/Case Studies/2001 A Space Odyssey.md",
+    "key": "datac104/2001-a-space-odyssey-d2c9a439f6",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Case Studies/Allegheny Family Screening Tool (AFST).md": {
+    "file": "datac104/Review Notes/Midterm 2/Case Studies/Allegheny Family Screening Tool (AFST).md",
+    "key": "datac104/allegheny-family-screening-tool-afst-f7bdb014e0",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Case Studies/Babbage's Difference Engine.md": {
+    "file": "datac104/Review Notes/Midterm 2/Case Studies/Babbage's Difference Engine.md",
+    "key": "datac104/babbage-s-difference-engine-64daa26b78",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Case Studies/Baumol's Cost Disease.md": {
+    "file": "datac104/Review Notes/Midterm 2/Case Studies/Baumol's Cost Disease.md",
+    "key": "datac104/baumol-s-cost-disease-4774cb2cb5",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Case Studies/COMPAS.md": {
+    "file": "datac104/Review Notes/Midterm 2/Case Studies/COMPAS.md",
+    "key": "datac104/compas-e78c4fc8a0",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Case Studies/Crisis Text Line (2022).md": {
+    "file": "datac104/Review Notes/Midterm 2/Case Studies/Crisis Text Line (2022).md",
+    "key": "datac104/crisis-text-line-2022-3cad0c2717",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Case Studies/Diana's Onlife World.md": {
+    "file": "datac104/Review Notes/Midterm 2/Case Studies/Diana's Onlife World.md",
+    "key": "datac104/diana-s-onlife-world-053022349c",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Case Studies/Elon Musk.md": {
+    "file": "datac104/Review Notes/Midterm 2/Case Studies/Elon Musk.md",
+    "key": "datac104/elon-musk-b2e1b28e5f",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Case Studies/Facebook Election Turnout.md": {
+    "file": "datac104/Review Notes/Midterm 2/Case Studies/Facebook Election Turnout.md",
+    "key": "datac104/facebook-election-turnout-7c4ba31108",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Case Studies/Havasupai Blood Samples.md": {
+    "file": "datac104/Review Notes/Midterm 2/Case Studies/Havasupai Blood Samples.md",
+    "key": "datac104/havasupai-blood-samples-c63748c323",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Case Studies/Machinery Question.md": {
+    "file": "datac104/Review Notes/Midterm 2/Case Studies/Machinery Question.md",
+    "key": "datac104/machinery-question-a7365a5b66",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Case Studies/Mark Zuckerberg.md": {
+    "file": "datac104/Review Notes/Midterm 2/Case Studies/Mark Zuckerberg.md",
+    "key": "datac104/mark-zuckerberg-21a296770c",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Case Studies/Peter Thiel and Elon Musk - Sovereignty as a Service.md": {
+    "file": "datac104/Review Notes/Midterm 2/Case Studies/Peter Thiel and Elon Musk - Sovereignty as a Service.md",
+    "key": "datac104/peter-thiel-and-elon-musk-sovereignty-as-a-service-c1cfbb936d",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Case Studies/Sam Altman.md": {
+    "file": "datac104/Review Notes/Midterm 2/Case Studies/Sam Altman.md",
+    "key": "datac104/sam-altman-d8dfb4bb76",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Case Studies/Scientific Management.md": {
+    "file": "datac104/Review Notes/Midterm 2/Case Studies/Scientific Management.md",
+    "key": "datac104/scientific-management-b154116a48",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Case Studies/Silicon Valley Company Sequence.md": {
+    "file": "datac104/Review Notes/Midterm 2/Case Studies/Silicon Valley Company Sequence.md",
+    "key": "datac104/silicon-valley-company-sequence-9f1016e864",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Case Studies/Snowden NSA Whistleblowing.md": {
+    "file": "datac104/Review Notes/Midterm 2/Case Studies/Snowden NSA Whistleblowing.md",
+    "key": "datac104/snowden-nsa-whistleblowing-b518aad3c0",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Case Studies/Stanford University.md": {
+    "file": "datac104/Review Notes/Midterm 2/Case Studies/Stanford University.md",
+    "key": "datac104/stanford-university-93c500d69d",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Case Studies/The Matrix (1999).md": {
+    "file": "datac104/Review Notes/Midterm 2/Case Studies/The Matrix (1999).md",
+    "key": "datac104/the-matrix-1999-04f50acfda",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Case Studies/Transhumanism.md": {
+    "file": "datac104/Review Notes/Midterm 2/Case Studies/Transhumanism.md",
+    "key": "datac104/transhumanism-4b7cf03170",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Case Studies/TSA Body Scanners.md": {
+    "file": "datac104/Review Notes/Midterm 2/Case Studies/TSA Body Scanners.md",
+    "key": "datac104/tsa-body-scanners-5d43a13b25",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Case Studies/U.S. Privacy Regulations (1970s).md": {
+    "file": "datac104/Review Notes/Midterm 2/Case Studies/U.S. Privacy Regulations (1970s).md",
+    "key": "datac104/u-s-privacy-regulations-1970s-e2f8efcab0",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Case Studies/UK Ofqual Controversy.md": {
+    "file": "datac104/Review Notes/Midterm 2/Case Studies/UK Ofqual Controversy.md",
+    "key": "datac104/uk-ofqual-controversy-e451b35ca4",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Case Studies/Unisex Insurance Debates.md": {
+    "file": "datac104/Review Notes/Midterm 2/Case Studies/Unisex Insurance Debates.md",
+    "key": "datac104/unisex-insurance-debates-3d97db5219",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Case Studies/US News and World Report University Rankings.md": {
+    "file": "datac104/Review Notes/Midterm 2/Case Studies/US News and World Report University Rankings.md",
+    "key": "datac104/us-news-and-world-report-university-rankings-e3261d3700",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Case Studies/Wireless and Radio Technologies.md": {
+    "file": "datac104/Review Notes/Midterm 2/Case Studies/Wireless and Radio Technologies.md",
+    "key": "datac104/wireless-and-radio-technologies-4696cf38ce",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Key Terms/1984, Big Brother, and Orwellian.md": {
+    "file": "datac104/Review Notes/Midterm 2/Key Terms/1984, Big Brother, and Orwellian.md",
+    "key": "datac104/1984-big-brother-and-orwellian-8620683e25",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Key Terms/Accountability.md": {
+    "file": "datac104/Review Notes/Midterm 2/Key Terms/Accountability.md",
+    "key": "datac104/accountability-080ad9fb6b",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Key Terms/Actuarial Fairness.md": {
+    "file": "datac104/Review Notes/Midterm 2/Key Terms/Actuarial Fairness.md",
+    "key": "datac104/actuarial-fairness-80723b0a5a",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Key Terms/Afrofuturism.md": {
+    "file": "datac104/Review Notes/Midterm 2/Key Terms/Afrofuturism.md",
+    "key": "datac104/afrofuturism-38eb1a8a71",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Key Terms/Anti-discrimination Law.md": {
+    "file": "datac104/Review Notes/Midterm 2/Key Terms/Anti-discrimination Law.md",
+    "key": "datac104/anti-discrimination-law-f0274e6484",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Key Terms/Automation.md": {
+    "file": "datac104/Review Notes/Midterm 2/Key Terms/Automation.md",
+    "key": "datac104/automation-fe2d255175",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Key Terms/Behaviorism.md": {
+    "file": "datac104/Review Notes/Midterm 2/Key Terms/Behaviorism.md",
+    "key": "datac104/behaviorism-9c5ab3ab29",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Key Terms/Bias, Accuracy, and Error.md": {
+    "file": "datac104/Review Notes/Midterm 2/Key Terms/Bias, Accuracy, and Error.md",
+    "key": "datac104/bias-accuracy-and-error-26b62bb174",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Key Terms/Chip - Integrated Circuit.md": {
+    "file": "datac104/Review Notes/Midterm 2/Key Terms/Chip - Integrated Circuit.md",
+    "key": "datac104/chip-integrated-circuit-c3dff0d602",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Key Terms/Choice Architecture and Nudges.md": {
+    "file": "datac104/Review Notes/Midterm 2/Key Terms/Choice Architecture and Nudges.md",
+    "key": "datac104/choice-architecture-and-nudges-e52e43d5ab",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Key Terms/Class Conflict.md": {
+    "file": "datac104/Review Notes/Midterm 2/Key Terms/Class Conflict.md",
+    "key": "datac104/class-conflict-747e904956",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Key Terms/Cloud Computing and Data Centers.md": {
+    "file": "datac104/Review Notes/Midterm 2/Key Terms/Cloud Computing and Data Centers.md",
+    "key": "datac104/cloud-computing-and-data-centers-cc3ebfd135",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Key Terms/Cognitive Science.md": {
+    "file": "datac104/Review Notes/Midterm 2/Key Terms/Cognitive Science.md",
+    "key": "datac104/cognitive-science-b4439c1156",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Key Terms/Cold War.md": {
+    "file": "datac104/Review Notes/Midterm 2/Key Terms/Cold War.md",
+    "key": "datac104/cold-war-34f7925f5b",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Key Terms/Collectivizing and Individualizing Risk.md": {
+    "file": "datac104/Review Notes/Midterm 2/Key Terms/Collectivizing and Individualizing Risk.md",
+    "key": "datac104/collectivizing-and-individualizing-risk-a46819c3ae",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Key Terms/Contextual Integrity.md": {
+    "file": "datac104/Review Notes/Midterm 2/Key Terms/Contextual Integrity.md",
+    "key": "datac104/contextual-integrity-fe3d2c69f6",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Key Terms/Credit Scores.md": {
+    "file": "datac104/Review Notes/Midterm 2/Key Terms/Credit Scores.md",
+    "key": "datac104/credit-scores-f64f57c66a",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Key Terms/Cybernetics and Cyborgs.md": {
+    "file": "datac104/Review Notes/Midterm 2/Key Terms/Cybernetics and Cyborgs.md",
+    "key": "datac104/cybernetics-and-cyborgs-39a9c88092",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Key Terms/Data Imperative.md": {
+    "file": "datac104/Review Notes/Midterm 2/Key Terms/Data Imperative.md",
+    "key": "datac104/data-imperative-137a3ba6f1",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Key Terms/Data Minimization.md": {
+    "file": "datac104/Review Notes/Midterm 2/Key Terms/Data Minimization.md",
+    "key": "datac104/data-minimization-6cbdac48fb",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Key Terms/Data Security.md": {
+    "file": "datac104/Review Notes/Midterm 2/Key Terms/Data Security.md",
+    "key": "datac104/data-security-e48c5d6e23",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Key Terms/De-identification and Re-identification.md": {
+    "file": "datac104/Review Notes/Midterm 2/Key Terms/De-identification and Re-identification.md",
+    "key": "datac104/de-identification-and-re-identification-f7635656f0",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Key Terms/Differential Exposure.md": {
+    "file": "datac104/Review Notes/Midterm 2/Key Terms/Differential Exposure.md",
+    "key": "datac104/differential-exposure-39836c9325",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Key Terms/Differential Privacy.md": {
+    "file": "datac104/Review Notes/Midterm 2/Key Terms/Differential Privacy.md",
+    "key": "datac104/differential-privacy-1b67d7fb50",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Key Terms/Discipline.md": {
+    "file": "datac104/Review Notes/Midterm 2/Key Terms/Discipline.md",
+    "key": "datac104/discipline-1a56bdad94",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Key Terms/Disruptive Innovation.md": {
+    "file": "datac104/Review Notes/Midterm 2/Key Terms/Disruptive Innovation.md",
+    "key": "datac104/disruptive-innovation-c656534986",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Key Terms/Dot-com Bubble.md": {
+    "file": "datac104/Review Notes/Midterm 2/Key Terms/Dot-com Bubble.md",
+    "key": "datac104/dot-com-bubble-1549abe65d",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Key Terms/Existential Risk.md": {
+    "file": "datac104/Review Notes/Midterm 2/Key Terms/Existential Risk.md",
+    "key": "datac104/existential-risk-dad44a57c5",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Key Terms/Fair Information Practices (FIPs or FIPPs).md": {
+    "file": "datac104/Review Notes/Midterm 2/Key Terms/Fair Information Practices (FIPs or FIPPs).md",
+    "key": "datac104/fair-information-practices-fips-or-fipps-da82d53bf9",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Key Terms/Fairness.md": {
+    "file": "datac104/Review Notes/Midterm 2/Key Terms/Fairness.md",
+    "key": "datac104/fairness-8aa74f30a0",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Key Terms/Federal Trade Commission (FTC).md": {
+    "file": "datac104/Review Notes/Midterm 2/Key Terms/Federal Trade Commission (FTC).md",
+    "key": "datac104/federal-trade-commission-ftc-68e5ff1918",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Key Terms/Futuring.md": {
+    "file": "datac104/Review Notes/Midterm 2/Key Terms/Futuring.md",
+    "key": "datac104/futuring-a618230d93",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Key Terms/Game Theory and Rational Choice.md": {
+    "file": "datac104/Review Notes/Midterm 2/Key Terms/Game Theory and Rational Choice.md",
+    "key": "datac104/game-theory-and-rational-choice-dc0495ba6e",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Key Terms/Gig Economy.md": {
+    "file": "datac104/Review Notes/Midterm 2/Key Terms/Gig Economy.md",
+    "key": "datac104/gig-economy-46e07b869c",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Key Terms/Immortality and Longevity.md": {
+    "file": "datac104/Review Notes/Midterm 2/Key Terms/Immortality and Longevity.md",
+    "key": "datac104/immortality-and-longevity-9a0819e2ba",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Key Terms/Impartiality.md": {
+    "file": "datac104/Review Notes/Midterm 2/Key Terms/Impartiality.md",
+    "key": "datac104/impartiality-4b3a9874b7",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Key Terms/Individual Consent.md": {
+    "file": "datac104/Review Notes/Midterm 2/Key Terms/Individual Consent.md",
+    "key": "datac104/individual-consent-b315bb75f9",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Key Terms/Insurance.md": {
+    "file": "datac104/Review Notes/Midterm 2/Key Terms/Insurance.md",
+    "key": "datac104/insurance-e4454f7725",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Key Terms/Intersectionality.md": {
+    "file": "datac104/Review Notes/Midterm 2/Key Terms/Intersectionality.md",
+    "key": "datac104/intersectionality-9fb6a022f3",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Key Terms/Labor Productivity.md": {
+    "file": "datac104/Review Notes/Midterm 2/Key Terms/Labor Productivity.md",
+    "key": "datac104/labor-productivity-8939dd1351",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Key Terms/Lean Startup.md": {
+    "file": "datac104/Review Notes/Midterm 2/Key Terms/Lean Startup.md",
+    "key": "datac104/lean-startup-023f97a97c",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Key Terms/Liberalism.md": {
+    "file": "datac104/Review Notes/Midterm 2/Key Terms/Liberalism.md",
+    "key": "datac104/liberalism-a08743a951",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Key Terms/Libertarian Paternalism.md": {
+    "file": "datac104/Review Notes/Midterm 2/Key Terms/Libertarian Paternalism.md",
+    "key": "datac104/libertarian-paternalism-30412f4775",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Key Terms/Longtermism.md": {
+    "file": "datac104/Review Notes/Midterm 2/Key Terms/Longtermism.md",
+    "key": "datac104/longtermism-2397d96513",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Key Terms/Luddites.md": {
+    "file": "datac104/Review Notes/Midterm 2/Key Terms/Luddites.md",
+    "key": "datac104/luddites-53ca9ebd5c",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Key Terms/Mechanical Objectivity.md": {
+    "file": "datac104/Review Notes/Midterm 2/Key Terms/Mechanical Objectivity.md",
+    "key": "datac104/mechanical-objectivity-e5f8128213",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Key Terms/Military-industrial Complex.md": {
+    "file": "datac104/Review Notes/Midterm 2/Key Terms/Military-industrial Complex.md",
+    "key": "datac104/military-industrial-complex-76c926b780",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Key Terms/Move Fast and Break Things.md": {
+    "file": "datac104/Review Notes/Midterm 2/Key Terms/Move Fast and Break Things.md",
+    "key": "datac104/move-fast-and-break-things-2032fc0033",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Key Terms/Narrative Template.md": {
+    "file": "datac104/Review Notes/Midterm 2/Key Terms/Narrative Template.md",
+    "key": "datac104/narrative-template-21cee927b2",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Key Terms/National Security Agency (NSA).md": {
+    "file": "datac104/Review Notes/Midterm 2/Key Terms/National Security Agency (NSA).md",
+    "key": "datac104/national-security-agency-nsa-66c9f54271",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Key Terms/Neoliberalism.md": {
+    "file": "datac104/Review Notes/Midterm 2/Key Terms/Neoliberalism.md",
+    "key": "datac104/neoliberalism-2152c5378e",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Key Terms/Nvidia.md": {
+    "file": "datac104/Review Notes/Midterm 2/Key Terms/Nvidia.md",
+    "key": "datac104/nvidia-3f064901b7",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Key Terms/Ohlone.md": {
+    "file": "datac104/Review Notes/Midterm 2/Key Terms/Ohlone.md",
+    "key": "datac104/ohlone-849c0b1e96",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Key Terms/OpenAI.md": {
+    "file": "datac104/Review Notes/Midterm 2/Key Terms/OpenAI.md",
+    "key": "datac104/openai-f2576c2bc8",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Key Terms/Opt-in and Opt-out.md": {
+    "file": "datac104/Review Notes/Midterm 2/Key Terms/Opt-in and Opt-out.md",
+    "key": "datac104/opt-in-and-opt-out-3b665ed124",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Key Terms/Palantir.md": {
+    "file": "datac104/Review Notes/Midterm 2/Key Terms/Palantir.md",
+    "key": "datac104/palantir-33be087bd0",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Key Terms/Panoptic Sort.md": {
+    "file": "datac104/Review Notes/Midterm 2/Key Terms/Panoptic Sort.md",
+    "key": "datac104/panoptic-sort-fd1ce64831",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Key Terms/Panopticon (Bentham).md": {
+    "file": "datac104/Review Notes/Midterm 2/Key Terms/Panopticon (Bentham).md",
+    "key": "datac104/panopticon-bentham-6f422ad5b4",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Key Terms/PATRIOT Act (2001).md": {
+    "file": "datac104/Review Notes/Midterm 2/Key Terms/PATRIOT Act (2001).md",
+    "key": "datac104/patriot-act-2001-eff444158a",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Key Terms/Personally Identifiable Information (PII).md": {
+    "file": "datac104/Review Notes/Midterm 2/Key Terms/Personally Identifiable Information (PII).md",
+    "key": "datac104/personally-identifiable-information-pii-401ea8ec65",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Key Terms/Platform Economy.md": {
+    "file": "datac104/Review Notes/Midterm 2/Key Terms/Platform Economy.md",
+    "key": "datac104/platform-economy-0bcbc0aa1f",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Key Terms/Platforms.md": {
+    "file": "datac104/Review Notes/Midterm 2/Key Terms/Platforms.md",
+    "key": "datac104/platforms-a6695079aa",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Key Terms/Prediction Paradigm.md": {
+    "file": "datac104/Review Notes/Midterm 2/Key Terms/Prediction Paradigm.md",
+    "key": "datac104/prediction-paradigm-28c3968efb",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Key Terms/Privacy Act (1974).md": {
+    "file": "datac104/Review Notes/Midterm 2/Key Terms/Privacy Act (1974).md",
+    "key": "datac104/privacy-act-1974-64e4a9bab9",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Key Terms/Privacy Policy.md": {
+    "file": "datac104/Review Notes/Midterm 2/Key Terms/Privacy Policy.md",
+    "key": "datac104/privacy-policy-3a6e7ab0f4",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Key Terms/Proxies.md": {
+    "file": "datac104/Review Notes/Midterm 2/Key Terms/Proxies.md",
+    "key": "datac104/proxies-ec8170673c",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Key Terms/Ranking.md": {
+    "file": "datac104/Review Notes/Midterm 2/Key Terms/Ranking.md",
+    "key": "datac104/ranking-685a0f7d94",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Key Terms/Recidivism.md": {
+    "file": "datac104/Review Notes/Midterm 2/Key Terms/Recidivism.md",
+    "key": "datac104/recidivism-a4643ad21c",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Key Terms/Risk Assessment.md": {
+    "file": "datac104/Review Notes/Midterm 2/Key Terms/Risk Assessment.md",
+    "key": "datac104/risk-assessment-ded88feb21",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Key Terms/Rule of Law.md": {
+    "file": "datac104/Review Notes/Midterm 2/Key Terms/Rule of Law.md",
+    "key": "datac104/rule-of-law-23cd43095f",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Key Terms/Santa Clara Valley.md": {
+    "file": "datac104/Review Notes/Midterm 2/Key Terms/Santa Clara Valley.md",
+    "key": "datac104/santa-clara-valley-b4810daf19",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Key Terms/Scaling Laws.md": {
+    "file": "datac104/Review Notes/Midterm 2/Key Terms/Scaling Laws.md",
+    "key": "datac104/scaling-laws-1610d78775",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Key Terms/Sectoral Regulation.md": {
+    "file": "datac104/Review Notes/Midterm 2/Key Terms/Sectoral Regulation.md",
+    "key": "datac104/sectoral-regulation-5de652e52e",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Key Terms/Self-Regulation.md": {
+    "file": "datac104/Review Notes/Midterm 2/Key Terms/Self-Regulation.md",
+    "key": "datac104/self-regulation-c5317c1ef3",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Key Terms/Service Industry.md": {
+    "file": "datac104/Review Notes/Midterm 2/Key Terms/Service Industry.md",
+    "key": "datac104/service-industry-eb5f55cf64",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Key Terms/Social Security.md": {
+    "file": "datac104/Review Notes/Midterm 2/Key Terms/Social Security.md",
+    "key": "datac104/social-security-084aa5a190",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Key Terms/Technology as Capital.md": {
+    "file": "datac104/Review Notes/Midterm 2/Key Terms/Technology as Capital.md",
+    "key": "datac104/technology-as-capital-a23d40f472",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Key Terms/Technology of Distance.md": {
+    "file": "datac104/Review Notes/Midterm 2/Key Terms/Technology of Distance.md",
+    "key": "datac104/technology-of-distance-833e51a6c0",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Key Terms/Terms of Service.md": {
+    "file": "datac104/Review Notes/Midterm 2/Key Terms/Terms of Service.md",
+    "key": "datac104/terms-of-service-c4304d713a",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Key Terms/Transhumanism.md": {
+    "file": "datac104/Review Notes/Midterm 2/Key Terms/Transhumanism.md",
+    "key": "datac104/transhumanism-9b9f19e143",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Key Terms/Transistor.md": {
+    "file": "datac104/Review Notes/Midterm 2/Key Terms/Transistor.md",
+    "key": "datac104/transistor-cd2c111d68",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Key Terms/Transparency.md": {
+    "file": "datac104/Review Notes/Midterm 2/Key Terms/Transparency.md",
+    "key": "datac104/transparency-e1b4363a33",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Key Terms/Trust.md": {
+    "file": "datac104/Review Notes/Midterm 2/Key Terms/Trust.md",
+    "key": "datac104/trust-3174c5b1dc",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Key Terms/Utopia and Dystopia.md": {
+    "file": "datac104/Review Notes/Midterm 2/Key Terms/Utopia and Dystopia.md",
+    "key": "datac104/utopia-and-dystopia-a0ca60badf",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Key Terms/Vacuum Tube.md": {
+    "file": "datac104/Review Notes/Midterm 2/Key Terms/Vacuum Tube.md",
+    "key": "datac104/vacuum-tube-6e985b913b",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Key Terms/Venture Capital.md": {
+    "file": "datac104/Review Notes/Midterm 2/Key Terms/Venture Capital.md",
+    "key": "datac104/venture-capital-7901d8b524",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Key Terms/Welfare State.md": {
+    "file": "datac104/Review Notes/Midterm 2/Key Terms/Welfare State.md",
+    "key": "datac104/welfare-state-8db177ba23",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Key Terms/Welfare.md": {
+    "file": "datac104/Review Notes/Midterm 2/Key Terms/Welfare.md",
+    "key": "datac104/welfare-4fc047b47b",
+    "format": "md"
+  },
+  "datac104/Review Notes/Midterm 2/Midterm 2 Information.md": {
+    "file": "datac104/Review Notes/Midterm 2/Midterm 2 Information.md",
+    "key": "datac104/midterm-2-information-57461fba04",
+    "format": "md"
+  },
+  "datac104/Review Notes/Week 1 Foundations.md": {
+    "file": "datac104/Review Notes/Week 1 Foundations.md",
+    "key": "datac104/week-1-foundations-8ec6076b80",
+    "format": "md"
+  },
+  "datac104/Review Notes/Week 2 Making Data.md": {
+    "file": "datac104/Review Notes/Week 2 Making Data.md",
+    "key": "datac104/week-2-making-data-6f06111f7b",
+    "format": "md"
+  },
+  "datac104/Review Notes/Week 3 Making Robust Knowledge.md": {
+    "file": "datac104/Review Notes/Week 3 Making Robust Knowledge.md",
+    "key": "datac104/week-3-making-robust-knowledge-c970a7731d",
+    "format": "md"
+  },
+  "datac104/Review Notes/Week 4 How Was the World Datafied?.md": {
+    "file": "datac104/Review Notes/Week 4 How Was the World Datafied?.md",
+    "key": "datac104/week-4-how-was-the-world-datafied-a1750d51b2",
+    "format": "md"
+  },
+  "datac104/Review Notes/Week 5 – Privacy.md": {
+    "file": "datac104/Review Notes/Week 5 – Privacy.md",
+    "key": "datac104/week-5-privacy-a8c95458b6",
+    "format": "md"
+  },
+  "datac104/Review Notes/Week 6 – Making Social Order.md": {
+    "file": "datac104/Review Notes/Week 6 – Making Social Order.md",
+    "key": "datac104/week-6-making-social-order-9a5d816421",
+    "format": "md"
+  },
+  "datac104/Review Notes/Week 7 – Automated Decision Making.md": {
+    "file": "datac104/Review Notes/Week 7 – Automated Decision Making.md",
+    "key": "datac104/week-7-automated-decision-making-b12d5e638b",
+    "format": "md"
+  },
+  "datac104/Review Notes/Week 8 – Data AI Futures.md": {
+    "file": "datac104/Review Notes/Week 8 – Data AI Futures.md",
+    "key": "datac104/week-8-data-ai-futures-11f76735a7",
+    "format": "md"
+  },
+  "datac104/Review Notes/Week 8 – Data and AI Futures.md": {
+    "file": "datac104/Review Notes/Week 8 – Data and AI Futures.md",
+    "key": "datac104/week-8-data-and-ai-futures-8b2f6708a0",
+    "format": "md"
+  },
+  "datac104/Review Notes/Week 9 – Silicon Valley.md": {
+    "file": "datac104/Review Notes/Week 9 – Silicon Valley.md",
+    "key": "datac104/week-9-silicon-valley-9ae164e91a",
+    "format": "md"
+  },
+  "soc113ac/Reading Notes/Unit 1/James Coleman and Thomas Hoffer – Schools, Families and Communities.md": {
+    "file": "soc113ac/Reading Notes/Unit 1/James Coleman and Thomas Hoffer – Schools, Families and Communities.md",
+    "key": "soc113ac/james-coleman-and-thomas-hoffer-schools-families-and-communities-dd3a3429aa",
+    "format": "md"
+  },
+  "soc113ac/Reading Notes/Unit 1/Max Weber's \"The Rationalization of Education and Training\".md": {
+    "file": "soc113ac/Reading Notes/Unit 1/Max Weber's \"The Rationalization of Education and Training\".md",
+    "key": "soc113ac/max-weber-s-the-rationalization-of-education-and-training-2d25bc07f0",
+    "format": "md"
+  },
+  "soc113ac/Reading Notes/Unit 1/Pitirim Sorokin – Social and Cultural Mobility.md": {
+    "file": "soc113ac/Reading Notes/Unit 1/Pitirim Sorokin – Social and Cultural Mobility.md",
+    "key": "soc113ac/pitirim-sorokin-social-and-cultural-mobility-093a5c0dbb",
+    "format": "md"
+  },
+  "soc113ac/Reading Notes/Unit 1/Ralph Turner – Sponsored and Contest Mobility and the School System.md": {
+    "file": "soc113ac/Reading Notes/Unit 1/Ralph Turner – Sponsored and Contest Mobility and the School System.md",
+    "key": "soc113ac/ralph-turner-sponsored-and-contest-mobility-and-the-school-system-b54df0889f",
+    "format": "md"
+  },
+  "soc113ac/Reading Notes/Unit 2/Barrie Thorne – Boys and Girls Together … But Mostly Apart.md": {
+    "file": "soc113ac/Reading Notes/Unit 2/Barrie Thorne – Boys and Girls Together … But Mostly Apart.md",
+    "key": "soc113ac/barrie-thorne-boys-and-girls-together-but-mostly-apart-52b4860048",
+    "format": "md"
+  },
+  "soc113ac/Reading Notes/Unit 2/Craig Watkins – Digital Divide - Navigating the Digital Age.md": {
+    "file": "soc113ac/Reading Notes/Unit 2/Craig Watkins – Digital Divide - Navigating the Digital Age.md",
+    "key": "soc113ac/craig-watkins-digital-divide-navigating-the-digital-age-07262e1ea7",
+    "format": "md"
+  },
+  "soc113ac/Reading Notes/Unit 2/Sean Reardon – The Widening Income Achievement Gap.md": {
+    "file": "soc113ac/Reading Notes/Unit 2/Sean Reardon – The Widening Income Achievement Gap.md",
+    "key": "soc113ac/sean-reardon-the-widening-income-achievement-gap-e4e8733337",
+    "format": "md"
+  },
+  "soc113ac/Reading Notes/Unit 3/Daniel McFarland – Resistance as a Social Drama - A Study of Change-Oriented Encounters.md": {
+    "file": "soc113ac/Reading Notes/Unit 3/Daniel McFarland – Resistance as a Social Drama - A Study of Change-Oriented Encounters.md",
+    "key": "soc113ac/daniel-mcfarland-resistance-as-a-social-drama-a-study-of-change-orient-f944e731ad",
+    "format": "md"
+  },
+  "soc113ac/Reading Notes/Unit 3/James Coleman – The Adolescent Culture.md": {
+    "file": "soc113ac/Reading Notes/Unit 3/James Coleman – The Adolescent Culture.md",
+    "key": "soc113ac/james-coleman-the-adolescent-culture-7e49537c70",
+    "format": "md"
+  },
+  "soc113ac/Reading Notes/Unit 3/Laura Hamilton and Elizabeth Armstrong – The (Mis)education of Monica and Karen.md": {
+    "file": "soc113ac/Reading Notes/Unit 3/Laura Hamilton and Elizabeth Armstrong – The (Mis)education of Monica and Karen.md",
+    "key": "soc113ac/laura-hamilton-and-elizabeth-armstrong-the-mis-education-of-monica-and-8e486bdc8c",
+    "format": "md"
+  },
+  "soc113ac/Reading Notes/Unit 3/Mary Grigsby – College Life Through the Eyes of Students.md": {
+    "file": "soc113ac/Reading Notes/Unit 3/Mary Grigsby – College Life Through the Eyes of Students.md",
+    "key": "soc113ac/mary-grigsby-college-life-through-the-eyes-of-students-ee388a36dd",
+    "format": "md"
+  },
+  "soc113ac/Reading Notes/Unit 3/Mimi Ito et al. – Hanging Out, Messing Around and Geeking Out - Findings from the Digital Youth Project.md": {
+    "file": "soc113ac/Reading Notes/Unit 3/Mimi Ito et al. – Hanging Out, Messing Around and Geeking Out - Findings from the Digital Youth Project.md",
+    "key": "soc113ac/mimi-ito-et-al-hanging-out-messing-around-and-geeking-out-findings-fro-dcd1e5cdb0",
+    "format": "md"
+  },
+  "soc113ac/Reading Notes/Unit 4/Christopher Jencks and Marsha Brown – The Effect of High Schools on Their Students.md": {
+    "file": "soc113ac/Reading Notes/Unit 4/Christopher Jencks and Marsha Brown – The Effect of High Schools on Their Students.md",
+    "key": "soc113ac/christopher-jencks-and-marsha-brown-the-effect-of-high-schools-on-thei-c4d030ac2f",
+    "format": "md"
+  },
+  "soc113ac/Reading Notes/Unit 4/Doris Entwisle et al. – The Nature of Schooling.md": {
+    "file": "soc113ac/Reading Notes/Unit 4/Doris Entwisle et al. – The Nature of Schooling.md",
+    "key": "soc113ac/doris-entwisle-et-al-the-nature-of-schooling-fc692a6266",
+    "format": "md"
+  },
+  "soc113ac/Reading Notes/Unit 4/Gary Orfield et al. – E Pluribus … Separation - Deepening Double Segregation for More Students.md": {
+    "file": "soc113ac/Reading Notes/Unit 4/Gary Orfield et al. – E Pluribus … Separation - Deepening Double Segregation for More Students.md",
+    "key": "soc113ac/gary-orfield-et-al-e-pluribus-separation-deepening-double-segregation--ae4baf9ad3",
+    "format": "md"
+  },
+  "soc113ac/Reading Notes/Unit 4/James Coleman et al. – Equality of Educational Opportunity - The Coleman Report.md": {
+    "file": "soc113ac/Reading Notes/Unit 4/James Coleman et al. – Equality of Educational Opportunity - The Coleman Report.md",
+    "key": "soc113ac/james-coleman-et-al-equality-of-educational-opportunity-the-coleman-re-594b2de08f",
+    "format": "md"
+  },
+  "soc113ac/Reading Notes/Unit 4/Jennie Oakes – The Distribution of Knowledge.md": {
+    "file": "soc113ac/Reading Notes/Unit 4/Jennie Oakes – The Distribution of Knowledge.md",
+    "key": "soc113ac/jennie-oakes-the-distribution-of-knowledge-cd466dbff9",
+    "format": "md"
+  },
+  "soc113ac/Reading Notes/Unit 4/Shamus Khan – Privilege.md": {
+    "file": "soc113ac/Reading Notes/Unit 4/Shamus Khan – Privilege.md",
+    "key": "soc113ac/shamus-khan-privilege-f65a86da5f",
+    "format": "md"
+  },
+  "soc113ac/Reading Notes/Unit 5/Alejandro Portes – English Only Triumphs, But the Costs Are High.md": {
+    "file": "soc113ac/Reading Notes/Unit 5/Alejandro Portes – English Only Triumphs, But the Costs Are High.md",
+    "key": "soc113ac/alejandro-portes-english-only-triumphs-but-the-costs-are-high-c47a53e057",
+    "format": "md"
+  },
+  "soc113ac/Reading Notes/Unit 5/James E. Rosenbaum and Amy Binders – Do Employers Really Need More Educated Youth.md": {
+    "file": "soc113ac/Reading Notes/Unit 5/James E. Rosenbaum and Amy Binders – Do Employers Really Need More Educated Youth.md",
+    "key": "soc113ac/james-e-rosenbaum-and-amy-binders-do-employers-really-need-more-educat-f25bf1570c",
+    "format": "md"
+  },
+  "soc113ac/Reading Notes/Unit 5/Jennifer Jennings – School Choice or Schools' Choice - Managing in an Era of Accountability.md": {
+    "file": "soc113ac/Reading Notes/Unit 5/Jennifer Jennings – School Choice or Schools' Choice - Managing in an Era of Accountability.md",
+    "key": "soc113ac/jennifer-jennings-school-choice-or-schools-choice-managing-in-an-era-o-2110f6a7a8",
+    "format": "md"
+  },
+  "soc113ac/Reading Notes/Unit 5/John Meyer – The Effects of Education as an Institution.md": {
+    "file": "soc113ac/Reading Notes/Unit 5/John Meyer – The Effects of Education as an Institution.md",
+    "key": "soc113ac/john-meyer-the-effects-of-education-as-an-institution-dfb0ac3e5c",
+    "format": "md"
+  },
+  "soc113ac/Reading Notes/Unit 5/Josipa Roksa and Richard Arum – The State of Undergraduate Learning.md": {
+    "file": "soc113ac/Reading Notes/Unit 5/Josipa Roksa and Richard Arum – The State of Undergraduate Learning.md",
+    "key": "soc113ac/josipa-roksa-and-richard-arum-the-state-of-undergraduate-learning-0e9c664014",
+    "format": "md"
+  },
+  "soc113ac/Reading Notes/Unit 5/Mitchell Stevens – Creating a Class - College Admissions and the Education of Elites.md": {
+    "file": "soc113ac/Reading Notes/Unit 5/Mitchell Stevens – Creating a Class - College Admissions and the Education of Elites.md",
+    "key": "soc113ac/mitchell-stevens-creating-a-class-college-admissions-and-the-education-d139e1c772",
+    "format": "md"
+  },
+  "soc113ac/Reading Notes/Unit 5/Pamela Barnhouse Walters and Annette Lareau – Education Research that Matters - Influence, Scientific Rigor, and Policy Making.md": {
+    "file": "soc113ac/Reading Notes/Unit 5/Pamela Barnhouse Walters and Annette Lareau – Education Research that Matters - Influence, Scientific Rigor, and Policy Making.md",
+    "key": "soc113ac/pamela-barnhouse-walters-and-annette-lareau-education-research-that-ma-f5a496bb43",
+    "format": "md"
+  },
+  "soc113ac/Reading Notes/Unit 5/Richard Arum – Judging School Discipline - A Crisis of Moral Authority.md": {
+    "file": "soc113ac/Reading Notes/Unit 5/Richard Arum – Judging School Discipline - A Crisis of Moral Authority.md",
+    "key": "soc113ac/richard-arum-judging-school-discipline-a-crisis-of-moral-authority-c429f5be8d",
+    "format": "md"
+  },
+  "soc113ac/Reading Notes/Unit 5/Roberto Gonzales – Learning to be Illegal - Undocumented Youth and Shifting Legal Contexts in the Transition to Adulthood.md": {
+    "file": "soc113ac/Reading Notes/Unit 5/Roberto Gonzales – Learning to be Illegal - Undocumented Youth and Shifting Legal Contexts in the Transition to Adulthood.md",
+    "key": "soc113ac/roberto-gonzales-learning-to-be-illegal-undocumented-youth-and-shiftin-422e305271",
+    "format": "md"
+  },
+  "soc113ac/Reading Notes/Unit 5/Stephen Brint and Jerome Karabel – Community Colleges and the American Social Order.md": {
+    "file": "soc113ac/Reading Notes/Unit 5/Stephen Brint and Jerome Karabel – Community Colleges and the American Social Order.md",
+    "key": "soc113ac/stephen-brint-and-jerome-karabel-community-colleges-and-the-american-s-15f845a3f4",
+    "format": "md"
+  },
+  "attachments/Pasted image 20260927172243.png": {
+    "file": "attachments/Pasted image 20260927172243.png",
+    "format": "png"
+  },
+  "attachments/Pasted image 20260927172320.png": {
+    "file": "attachments/Pasted image 20260927172320.png",
+    "format": "png"
+  },
+  "attachments/Pasted image 20260927172342.png": {
+    "file": "attachments/Pasted image 20260927172342.png",
+    "format": "png"
+  },
+  "attachments/Pasted image 20260927172414.png": {
+    "file": "attachments/Pasted image 20260927172414.png",
+    "format": "png"
+  },
+  "attachments/Pasted image 20261003141955.png": {
+    "file": "attachments/Pasted image 20261003141955.png",
+    "format": "png"
+  },
+  "attachments/Pasted image 20261003142006.png": {
+    "file": "attachments/Pasted image 20261003142006.png",
+    "format": "png"
+  },
+  "attachments/Pasted image 20261003142018.png": {
+    "file": "attachments/Pasted image 20261003142018.png",
+    "format": "png"
+  },
+  "attachments/Pasted image 20261003142031.png": {
+    "file": "attachments/Pasted image 20261003142031.png",
+    "format": "png"
+  },
+  "attachments/Pasted image 20261003142042.png": {
+    "file": "attachments/Pasted image 20261003142042.png",
+    "format": "png"
+  },
+  "attachments/Pasted image 20261003142055.png": {
+    "file": "attachments/Pasted image 20261003142055.png",
+    "format": "png"
+  },
+  "attachments/Pasted image 20261003142105.png": {
+    "file": "attachments/Pasted image 20261003142105.png",
+    "format": "png"
+  },
+  "attachments/Pasted image 20261003142117.png": {
+    "file": "attachments/Pasted image 20261003142117.png",
+    "format": "png"
+  },
+  "attachments/Pasted image 20261003142132.png": {
+    "file": "attachments/Pasted image 20261003142132.png",
+    "format": "png"
+  },
+  "attachments/Pasted image 20261003142141.png": {
+    "file": "attachments/Pasted image 20261003142141.png",
+    "format": "png"
+  },
+  "attachments/Pasted image 20261003142152.png": {
+    "file": "attachments/Pasted image 20261003142152.png",
+    "format": "png"
+  },
+  "attachments/Pasted image 20261003142201.png": {
+    "file": "attachments/Pasted image 20261003142201.png",
+    "format": "png"
+  },
+  "attachments/Pasted image 20261019153754.png": {
+    "file": "attachments/Pasted image 20261019153754.png",
+    "format": "png"
+  },
+  "attachments/Pasted image 20261019153818.png": {
+    "file": "attachments/Pasted image 20261019153818.png",
+    "format": "png"
+  },
+  "attachments/Pasted image 20261019153846.png": {
+    "file": "attachments/Pasted image 20261019153846.png",
+    "format": "png"
+  },
+  "attachments/Pasted image 20261019154956.png": {
+    "file": "attachments/Pasted image 20261019154956.png",
+    "format": "png"
+  },
+  "attachments/cs70-hw05-graph.png": {
+    "file": "attachments/cs70-hw05-graph.png",
+    "format": "png"
+  },
+  "attachments/cs70-hw05-mountain-range.png": {
+    "file": "attachments/cs70-hw05-mountain-range.png",
+    "format": "png"
+  }
+}

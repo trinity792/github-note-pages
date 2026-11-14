@@ -1,0 +1,39 @@
+# Source material used to write the notes. It is licensed CC BY-NC-ND and is not part of the published site.
+course-notes-main/
+
+# Original CS70 PDFs are excluded from the app (keep Markdown study materials).
+/content/cs70/**/*.pdf
+
+# Content excluded from the public app.
+/content/soc113ac/Midterm/
+/content/soc113ac/Lecture Notes/
+/content/cs70/Exams and Quizzes/CS70 Quiz Bank/
+/content/cs70/Exams and Quizzes/Quiz*.md
+/content/cs70/Homework/hw00.md
+/content/cs70/Homework/hw01.md
+/content/cs70/Homework/hw07.md
+/content/cs70/Homework/hw08.md
+/content/cs70/Homework/hw09.md
+/content/cs70/Homework/hw10.md
+/content/cs70/Homework/deltabs.py
+/content/**/*[Mm]ock*[Qq]uiz*.md
+/content/**/*.canvas
+/content/**/*.m4a
+/content/**/*.mp3
+/content/**/*.wav
+/content/**/*.ogg
+
+# Local import diagnostics; the site uses import-index.json instead.
+/content/import-report.json
+
+# Operating system and editor temporary files.
+.DS_Store
+._*
+*.swp
+*.swo
+*~
+
+# Dependency and Python caches.
+node_modules/
+__pycache__/
+*.py[cod]

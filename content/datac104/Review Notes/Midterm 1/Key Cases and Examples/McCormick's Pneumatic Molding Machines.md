@@ -1,0 +1,5 @@
+## Cyrus McCormick's Pneumatic Molding Machines
+- **Source**: Langdon Winner, _"Do Artifacts Have Politics?"_ (1980)
+- **Summary**: In the mid-1880s, Cyrus McCormick II added expensive, untested pneumatic molding machinery to his Chicago reaper manufacturing plant at a cost of $500,000.
+- **Additional Context**: Standard economic logic would assume the machinery was added for efficiency. However, historian Robert Ozanne revealed that McCormick installed the machines specifically to break the National Union of Iron Molders. The machines produced higher-cost, lower-quality castings, but they allowed McCormick to replace skilled union molders with unskilled non-union workers. Once the union was destroyed, McCormick discarded the inefficient machinery, proving that technological choices can be deployed as tools of workplace domination.
+#academic/year-3/fall-2026/data-c104/key-cases

@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>HQ Notes</title>
+  <meta name="description" content="Topic review notes with interactive visualizations.">
+  <meta name="color-scheme" content="dark light">
+  <script>
+    // Apply saved preferences before first paint.
+    (function () {
+      var d = document.documentElement;
+      try {
+        var t = localStorage.getItem("hq.theme");
+        if (!t) t = matchMedia("(prefers-color-scheme: light)").matches ? "light" : "dark";
+        d.dataset.theme = t;
+        d.dataset.font = localStorage.getItem("hq.font") || "sans";
+      } catch (e) { d.dataset.theme = "dark"; }
+    })();
+  </script>
+  <link rel="icon" href="assets/img/favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500&family=Montserrat:ital,wght@0,400;0,500;0,600;1,400&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css">
+  <link rel="stylesheet" href="assets/css/tokens.css">
+  <link rel="stylesheet" href="assets/css/app.css">
+  <link rel="stylesheet" href="assets/css/note.css">
+  <link rel="stylesheet" href="assets/css/widgets.css">
+  <script defer src="https://cdn.jsdelivr.net/npm/marked@12.0.2/marked.min.js"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.js"></script>
+  <script type="module" src="assets/js/app.js"></script>
+</head>
+<body>
+  <div id="app" class="app" data-view="browse">
+    <noscript style="padding:24px;display:block">These notes need JavaScript to render. The raw Markdown lives in the <code>content/</code> folder.</noscript>
+  </div>
+</body>
+</html>

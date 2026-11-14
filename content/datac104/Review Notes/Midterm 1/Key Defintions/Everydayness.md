@@ -1,0 +1,3 @@
+## Everydayness
+- **Definition**: The social process through which technological systems and data collection integrate seamlessly into the routine background of daily life (e.g., smart home devices, credit card transactions, location tracking) until they become naturalized and taken for granted as part of the physical and social landscape (`Lecture 2, slide 6`).
+#academic/year-3/fall-2026/data-c104/key-definitions

@@ -1,0 +1,1 @@
+The authors advocate for a more realistic public understanding of science, framing it as a "golem"—a powerful, well-intentioned, but clumsy creature of human hands that possesses immense strength but lacks inherent wisdom or perfection.
