@@ -805,6 +805,50 @@
           "file": "cs70/Content Notes/Theorems and Notation Reference Notes.md",
           "format": "md",
           "created": "August 31st, 2026 - 12:23 PM"
+        },
+        {
+          "slug": "n21-random-variables-iii-variance-1cc78fa883",
+          "title": "CS 70 Note 21 — Random Variables III, Variance",
+          "lectures": "",
+          "created": "November 14, 2026",
+          "updated": "November 14, 2026",
+          "type": "Course Notes",
+          "description": "Applies geometric random variables to coupon collecting, develops expectation of a function and variance, and computes variance for common distributions and sums of independent variables.",
+          "file": "cs70/Course Notes/N21 Random Variables III - Variance.md",
+          "format": "md"
+        },
+        {
+          "slug": "n22-standardization-covariance-and-correlation-3e73980cec",
+          "title": "CS 70 Note 22 — Standardization, Covariance, and Correlation",
+          "lectures": "",
+          "created": "November 14, 2026",
+          "updated": "November 14, 2026",
+          "type": "Course Notes",
+          "description": "Standardizes random variables, defines covariance and correlation, and proves the correlation bounds and their equality cases.",
+          "file": "cs70/Course Notes/N22 Standardization, Covariance, and Correlation.md",
+          "format": "md"
+        },
+        {
+          "slug": "l21-variance-8df2953d48",
+          "title": "L21 Variance",
+          "lectures": "",
+          "created": "November 10, 2026",
+          "updated": "November 10, 2026",
+          "type": "Lecture Notes",
+          "description": "The lecture solved the coupon collector problem by decomposing its waiting time into geometric random variables and applying linearity of expectation. It developed the law of the unconscious statistician, motivated variance through random walks, and introduced variance identities and standard deviation.",
+          "file": "cs70/Lecture Notes/L21 Variance.md",
+          "format": "md"
+        },
+        {
+          "slug": "l22-variance-and-covariance-8c7a65e322",
+          "title": "L22 Variance and Covariance",
+          "lectures": "",
+          "created": "November 12, 2026",
+          "updated": "November 12, 2026",
+          "type": "Lecture Notes",
+          "description": "The lecture computed variances for Bernoulli variables, a fair die, and randomized homework returns, then derived variance addition for independent random variables. It introduced covariance, dependence with zero covariance, standardization, covariance bilinearity, and correlation through card draws and student-score data.",
+          "file": "cs70/Lecture Notes/L22 Variance and Covariance.md",
+          "format": "md"
         }
       ]
     },

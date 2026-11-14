@@ -354,6 +354,26 @@
     "key": "cs70/theorems-and-notation-reference-notes-9a7b117350",
     "format": "md"
   },
+  "cs70/Course Notes/N21 Random Variables III - Variance.md": {
+    "file": "cs70/Course Notes/N21 Random Variables III - Variance.md",
+    "key": "cs70/n21-random-variables-iii-variance-1cc78fa883",
+    "format": "md"
+  },
+  "cs70/Course Notes/N22 Standardization, Covariance, and Correlation.md": {
+    "file": "cs70/Course Notes/N22 Standardization, Covariance, and Correlation.md",
+    "key": "cs70/n22-standardization-covariance-and-correlation-3e73980cec",
+    "format": "md"
+  },
+  "cs70/Lecture Notes/L21 Variance.md": {
+    "file": "cs70/Lecture Notes/L21 Variance.md",
+    "key": "cs70/l21-variance-8df2953d48",
+    "format": "md"
+  },
+  "cs70/Lecture Notes/L22 Variance and Covariance.md": {
+    "file": "cs70/Lecture Notes/L22 Variance and Covariance.md",
+    "key": "cs70/l22-variance-and-covariance-8c7a65e322",
+    "format": "md"
+  },
   "datac104/Lecture Notes/In Class Notes/Week 4 Lecture Notes.md": {
     "file": "datac104/Lecture Notes/In Class Notes/Week 4 Lecture Notes.md",
     "key": "datac104/week-4-lecture-notes-da0d75b3bd",
