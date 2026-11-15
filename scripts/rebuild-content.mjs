@@ -23,7 +23,7 @@ const types = { "Homework": "Homeworks", "Exams and Quizzes": "Exams and Quizzes
 const excluded = (file) => /(?:^|\/)mock.*quiz/i.test(file)
   || /^soc113ac\/(?:Midterm|Lecture Notes)\//.test(file)
   || /^cs70\/Exams and Quizzes\/(?:CS70 Quiz Bank\/|Quiz[^/]*\.md$)/.test(file)
-  || /^cs70\/Homework\/(?:hw00|hw01|hw07|hw08|hw09|hw10)\.md$/.test(file);
+  || /^cs70\/Homework\/(?:hw00|hw01|hw07|hw08)\.md$/.test(file);
 for (const course of manifest.courses) {
   const previous = new Map(course.notes.map((note) => [note.file || `${course.id}/${note.slug}.md`, note]));
   const candidates = (await filesAt(course.id)).filter((file) => extname(file) === ".md" && !excluded(file));

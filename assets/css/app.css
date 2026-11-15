@@ -76,7 +76,7 @@ input, select, textarea { font: inherit; color: inherit; }
 .sb-item[aria-expanded="true"] .chev { transform: rotate(90deg); }
 .sb-branch { min-width: 0; }
 .sb-course { display: flex; align-items: center; border-radius: var(--r-6); }
-.sb-course.active { background: var(--row-selected); }
+.sb-folder.active { background: none; color: var(--text); font-weight: 600; }
 .sb-course > .sb-item { flex: 1; width: auto; padding-left: 2px; }
 .sb-course > .sb-item[aria-current="page"] { background: none; }
 .sb-course.active > .sb-item { color: var(--text); font-weight: 600; background: none; }

@@ -184,16 +184,6 @@
     "key": "cs70/hw08-sol-1e85374226",
     "format": "md"
   },
-  "cs70/Homework/Solutions/hw09-sol.md": {
-    "file": "cs70/Homework/Solutions/hw09-sol.md",
-    "key": "cs70/hw09-sol-810e015509",
-    "format": "md"
-  },
-  "cs70/Homework/Solutions/hw10-sol.md": {
-    "file": "cs70/Homework/Solutions/hw10-sol.md",
-    "key": "cs70/hw10-sol-2c74253536",
-    "format": "md"
-  },
   "cs70/Exams and Quizzes/Midterm 1/Chinese Remainder Theorem Approaches.md": {
     "file": "cs70/Exams and Quizzes/Midterm 1/Chinese Remainder Theorem Approaches.md",
     "key": "cs70/chinese-remainder-theorem-approaches-3402daf762",
@@ -372,6 +362,21 @@
   "cs70/Lecture Notes/L22 Variance and Covariance.md": {
     "file": "cs70/Lecture Notes/L22 Variance and Covariance.md",
     "key": "cs70/l22-variance-and-covariance-8c7a65e322",
+    "format": "md"
+  },
+  "cs70/Homework/hw09.md": {
+    "file": "cs70/Homework/hw09.md",
+    "key": "cs70/hw09-7bc90f98a9",
+    "format": "md"
+  },
+  "cs70/Homework/hw10.md": {
+    "file": "cs70/Homework/hw10.md",
+    "key": "cs70/hw10-97e09cadca",
+    "format": "md"
+  },
+  "cs70/Homework/hw11.md": {
+    "file": "cs70/Homework/hw11.md",
+    "key": "cs70/hw11-01c8895106",
     "format": "md"
   },
   "datac104/Lecture Notes/In Class Notes/Week 4 Lecture Notes.md": {

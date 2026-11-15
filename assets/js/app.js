@@ -148,7 +148,7 @@ function renderSidebar(route) {
   const expanded = store.get("folders", {});
   let branchId = 0;
   const activeNote = route.name === "note" ? findNote(`${route.course}/${route.slug}`) : null;
-  const toggle = (key, label, open, id, full = false) => `<button class="${full ? "sb-item sb-folder" : "sb-toggle"}" data-folder="${esc(key)}" aria-expanded="${open}" aria-controls="${id}" aria-label="${esc(label)}">${icon("chevron-right", 14, "chev")}${full ? `<span class="lbl">${esc(label)}</span>` : ""}</button>`;
+  const toggle = (key, label, open, id, full = false) => `<button class="${full ? "sb-item sb-folder" + (activeNote?.file?.startsWith(key + "/") ? " active" : "") : "sb-toggle"}" data-folder="${esc(key)}" aria-expanded="${open}" aria-controls="${id}" aria-label="${esc(label)}">${icon("chevron-right", 14, "chev")}${full ? `<span class="lbl">${esc(label)}</span>` : ""}</button>`;
   const children = (tree, c, path = c.id) => {
     const folders = [...tree.folders].map(([name, branch]) => {
       const key = `${path}/${name}`;
@@ -156,7 +156,10 @@ function renderSidebar(route) {
       const id = `sb-branch-${branchId++}`;
       return `<div class="sb-branch">${toggle(key, name, open, id, true)}<div id="${id}" class="sb-children" ${open ? "" : "hidden"}>${children(branch, c, key)}</div></div>`;
     }).join("");
-    return folders + sortNotes(tree.notes, noteSort).map((n) => `<a class="sb-item" href="#/n/${c.id}/${n.slug}" title="${esc(n.title)}" ${activeNote?.key === `${c.id}/${n.slug}` ? 'aria-current="page"' : ""}>${icon("sticky-note", 14, "note-icon")}<span class="lbl">${esc(n.title)}</span></a>`).join("");
+    const notes = path === "cs70/Course Notes"
+      ? [...tree.notes].sort((a, b) => a.title.localeCompare(b.title, "en", { numeric: true, sensitivity: "base" }))
+      : sortNotes(tree.notes, noteSort);
+    return folders + notes.map((n) => `<a class="sb-item" href="#/n/${c.id}/${n.slug}" title="${esc(n.title)}" ${activeNote?.key === `${c.id}/${n.slug}` ? 'aria-current="page"' : ""}>${icon("sticky-note", 14, "note-icon")}<span class="lbl">${esc(n.title)}</span></a>`).join("");
   };
   const side = document.createElement("aside");
   side.className = "sidebar";

@@ -433,28 +433,6 @@
           "created": "November 12, 2026"
         },
         {
-          "slug": "hw09-sol-810e015509",
-          "title": "CS 70 HW 09 Solutions — Conditional Probability and Combinations of Events",
-          "lectures": "",
-          "updated": "November 12, 2026",
-          "type": "Homeworks",
-          "description": "Official HW 09 solutions, each placed directly under its question: conditional probability, Bayes' Rule, total probability, inclusion-exclusion, independence of complements, balls and bins with the union bound, and the dining-hall and socks stretch problems.",
-          "file": "cs70/Homework/Solutions/hw09-sol.md",
-          "format": "md",
-          "created": "November 12, 2026"
-        },
-        {
-          "slug": "hw10-sol-2c74253536",
-          "title": "CS 70 HW 10 Solutions — Random Variables and Linearity of Expectation",
-          "lectures": "",
-          "updated": "November 12, 2026",
-          "type": "Homeworks",
-          "description": "Official HW 10 solutions, each placed directly under its question: distributions, expectation, indicators and linearity, joint distributions and independence, Bernoulli, Binomial, Geometric, and Poisson models, and the swaps-and-cycles and office-hour-queue stretch problems.",
-          "file": "cs70/Homework/Solutions/hw10-sol.md",
-          "format": "md",
-          "created": "November 12, 2026"
-        },
-        {
           "slug": "chinese-remainder-theorem-approaches-3402daf762",
           "title": "Chinese Remainder Theorem Approachs",
           "lectures": "",
@@ -848,6 +826,39 @@
           "type": "Lecture Notes",
           "description": "The lecture computed variances for Bernoulli variables, a fair die, and randomized homework returns, then derived variance addition for independent random variables. It introduced covariance, dependence with zero covariance, standardization, covariance bilinearity, and correlation through card draws and student-score data.",
           "file": "cs70/Lecture Notes/L22 Variance and Covariance.md",
+          "format": "md"
+        },
+        {
+          "slug": "hw09-7bc90f98a9",
+          "title": "CS 70 HW 09 — Conditional Probability and Combinations of Events",
+          "lectures": "",
+          "created": "November 4, 2026",
+          "updated": "November 12, 2026",
+          "type": "Homeworks",
+          "description": "Homework on conditional probability, Bayes' Rule, and the Law of Total Probability, then independence, inclusion-exclusion, and the union bound. Covers two dice, Halloween costumes, a box of marbles, independent complements, balls and bins, and two stretch problems on a dining-hall stopping rule and matching socks. Includes the relevant course note and section links for each question.",
+          "file": "cs70/Homework/hw09.md",
+          "format": "md"
+        },
+        {
+          "slug": "hw10-97e09cadca",
+          "title": "CS 70 HW 10 — Random Variables and Linearity of Expectation",
+          "lectures": "",
+          "created": "November 7, 2026",
+          "updated": "November 12, 2026",
+          "type": "Homeworks",
+          "description": "Homework on random variables, distributions, expectation, joint distributions, independence, and linearity of expectation. Covers a biased coin, a weighted die, confetti bottles, geometric waiting times, Poisson models, chocolates, model planes, minima and maxima of geometrics, and two stretch problems on permutation swaps and cycles and an office hour queue. Includes the relevant course note and section links for each question.",
+          "file": "cs70/Homework/hw10.md",
+          "format": "md"
+        },
+        {
+          "slug": "hw11-01c8895106",
+          "title": "CS 70 HW 11 — Variance, Covariance, and Correlation",
+          "lectures": "",
+          "created": "November 14, 2026",
+          "updated": "November 14, 2026",
+          "type": "Homeworks",
+          "description": "Homework on variance, covariance, correlation, independent indicators, dice averages, and elevator stopping patterns. Includes proof and counterexample questions, variance of a product, and a stretch problem on indicators and positivity, with relevant course-note section links for each question.",
+          "file": "cs70/Homework/hw11.md",
           "format": "md"
         }
       ]
