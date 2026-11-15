@@ -42,13 +42,53 @@ function protectMath(src, store) {
 function renderMath(html, store) {
   const tex = (i, forceInline) => {
     const m = store[+i];
+    const delimiter = m.display ? "$$" : "$";
+    const source = `${delimiter}${m.tex}${delimiter}`;
+    let rendered;
     try {
-      return window.katex.renderToString(m.tex, { displayMode: m.display && !forceInline, throwOnError: false, strict: false });
-    } catch (e) { return `<code>${esc(m.tex)}</code>`; }
+      rendered = window.katex.renderToString(m.tex, { displayMode: m.display && !forceInline, throwOnError: false, strict: false });
+    } catch (e) { rendered = `<code>${esc(m.tex)}</code>`; }
+    return `<span data-math-source="${esc(source)}">${rendered}</span>`;
   };
   return html
     .replace(/<p>%%MATHD(\d+)%%<\/p>/g, (_, i) => `<div class="math-block">${tex(i)}</div>`)
     .replace(/%%MATHD?(\d+)%%/g, (_, i) => tex(i, false));
+}
+
+function copyMath(ev) {
+  if (ev.defaultPrevented || !ev.clipboardData || ev.target.closest?.("input, textarea, [contenteditable]")) return;
+  const selection = window.getSelection();
+  if (!selection || selection.isCollapsed || !selection.rangeCount) return;
+  const elementAt = (node) => node.nodeType === 1 ? node : node.parentElement;
+  const ranges = Array.from({ length: selection.rangeCount }, (_, i) => selection.getRangeAt(i).cloneRange());
+  const root = elementAt(ranges[0].startContainer)?.closest(".md");
+  if (!root || ranges.some((range) => !root.contains(range.startContainer) || !root.contains(range.endContainer))) return;
+  if (![...root.querySelectorAll("[data-math-source]")].some((math) => ranges.some((range) => range.intersectsNode(math)))) return;
+
+  const copy = root.cloneNode(false);
+  copy.removeAttribute("id");
+  copy.setAttribute("aria-hidden", "true");
+  copy.style.cssText = "position:fixed;left:-100000px;top:0;pointer-events:none;";
+  for (const range of ranges) {
+    // Treat an equation as one unit, including when selection starts or ends inside its rendered glyphs.
+    const startMath = elementAt(range.startContainer)?.closest("[data-math-source]");
+    const endMath = elementAt(range.endContainer)?.closest("[data-math-source]");
+    if (startMath) range.setStartBefore(startMath);
+    if (endMath) range.setEndAfter(endMath);
+    if (copy.hasChildNodes()) copy.appendChild(document.createElement("br"));
+    copy.appendChild(range.cloneContents());
+  }
+  for (const math of copy.querySelectorAll("[data-math-source]")) {
+    math.replaceWith(document.createTextNode(math.dataset.mathSource));
+  }
+  // Let the browser retain paragraph, table and line-break spacing in the plain-text clipboard.
+  document.body.appendChild(copy);
+  try {
+    ev.clipboardData.setData("text/plain", copy.innerText);
+    ev.preventDefault();
+  } finally {
+    copy.remove();
+  }
 }
 
 function codeBlock(text, info) {
@@ -77,6 +117,7 @@ let configured = false;
 function configure() {
   if (configured) return;
   configured = true;
+  document.addEventListener("copy", copyMath);
   window.marked.use({
     gfm: true,
     extensions: [{
