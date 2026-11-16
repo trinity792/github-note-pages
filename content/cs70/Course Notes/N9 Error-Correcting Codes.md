@@ -10,7 +10,7 @@ Last Updated: October 1, 2026
 Status: Finalized
 ---
 
-# CS 70 Note 9 — Error-Correcting Codes
+# N9 Error-Correcting Codes
 
 This note discusses transmitting messages across an unreliable communication channel, which may lose ("erase") packets or corrupt them. We will learn how to **encode** a message by introducing redundancy into it, protecting against both types of errors. Such a scheme is an **error-correcting code**. We focus on algebraic codes, and in particular so-called **Reed-Solomon codes**, which are built from the properties of polynomials over finite fields developed in the previous note.
 

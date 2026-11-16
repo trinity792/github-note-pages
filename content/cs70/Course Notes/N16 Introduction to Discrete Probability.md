@@ -1,5 +1,5 @@
 ---
-title: CS 70 Note 16 — Introduction to Discrete Probability
+title: N16 Introduction to Discrete Probability
 Content Type: Course Notes
 Content Area: Probability
 description: "Introduces random experiments, sample spaces, probability spaces, and events, and shows how probabilities of events reduce to counting in uniform spaces. Worked examples cover coin tosses, dice, card shuffling, poker hands, balls and bins, and the birthday paradox."
@@ -10,7 +10,7 @@ Last Updated: October 25, 2026
 Status: Finalized
 ---
 
-# CS 70 Note 16 — Introduction to Discrete Probability
+# N16 Introduction to Discrete Probability
 **Related lecture:** [[cs70/Lecture Notes/L16 Intro to Discrete Probability|L16 Intro to Discrete Probability]]. **Previous note:** [[cs70/Course Notes/N15 Counting|Note 15 — Counting]].
 
 Probability theory has its origins in gambling: analyzing card games, dice, and roulette wheels. Today it is an essential tool in engineering and the sciences, and no less so in EECS, where its use is widespread in algorithms, systems, control, signal processing, learning theory, and AI. Typical statements about probability include:

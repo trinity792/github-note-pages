@@ -10,7 +10,7 @@ Last Updated: September 26, 2026
 Status: Finalized
 ---
 
-# CS 70 Note 8 — Polynomials, Finite Fields, and Secret Sharing
+# N8 Polynomials, Finite Fields, and Secret Sharing
 
 Polynomials are a rich class of functions, both easy to describe and widely applicable, from Fourier analysis, cryptography, and communication to control and computational geometry. This note extends what you already know about polynomials over the real and complex numbers to modular arithmetic, and then uses the resulting properties to develop a secret-sharing scheme.
 

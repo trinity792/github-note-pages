@@ -10,7 +10,7 @@ Last Updated: September 14, 2026
 Status: Finalized
 ---
 
-# CS 70 Note 4 — Mathematical Induction
+# N4 Mathematical Induction
 Many mathematical statements assert that a property holds for every natural number. Since there are infinitely many natural numbers, checking each one individually is impossible. This note introduces **mathematical induction**, a proof technique that establishes such statements by finite means. It covers the base case and inductive step, strengthening the induction hypothesis when the obvious statement is too weak to prove, the relationship between simple and strong induction, and the close connection between induction and recursively defined algorithms.
 
 ## 1. Mathematical Induction

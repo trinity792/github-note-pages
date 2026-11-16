@@ -10,7 +10,7 @@ Last Updated: September 21, 2026
 Status: Finalized
 ---
 
-# CS 70 Note 7 — Public Key Cryptography (RSA)
+# N7 Public Key Cryptography
 
 This note discusses a very nice and important application of modular arithmetic: the **RSA public-key cryptosystem**, named after its inventors Ronald Rivest, Adi Shamir and Leonard Adleman.
 

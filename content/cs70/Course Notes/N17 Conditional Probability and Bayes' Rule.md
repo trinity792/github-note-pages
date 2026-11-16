@@ -1,5 +1,5 @@
 ---
-title: CS 70 Note 17 — Conditional Probability and Bayes' Rule
+title: N17 Conditional Probability and Bayes' Rule
 Content Type: Course Notes
 Content Area: Probability
 description: "Defines conditional probability and applies it to card dealing, the Monty Hall problem, and Bayesian inference. Derives Bayes' Rule and the Total Probability Rule, with worked examples and the generalization to partitions of the sample space."
@@ -10,7 +10,7 @@ Last Updated: November 01, 2026
 Status: Finalized
 ---
 
-# CS 70 Note 17 — Conditional Probability and Bayes' Rule
+# N17 Conditional Probability and Bayes' Rule
 **Previous note:** [[cs70/Course Notes/N16 Introduction to Discrete Probability|Note 16 — Introduction to Discrete Probability]]. **Next note:** [[cs70/Course Notes/N18 Inclusion-Exclusion and Combinations of Events|Note 18 — Inclusion-Exclusion and Combinations of Events]].
 
 This note introduces **conditional probability**, the probability of an event once some other event is known to have occurred. It is applied to card dealing, the Monty Hall problem, and **Bayesian inference**, and it leads to **Bayes' Rule** and the **Total Probability Rule**, first for two cases and then for a general partition of the sample space.

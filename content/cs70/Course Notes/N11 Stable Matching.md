@@ -1,5 +1,5 @@
 ---
-title: CS 70 Note 11 — Stable Matching and the Propose-and-Reject Algorithm
+title: N11 Stable Matching
 Content Type: Course Notes
 Content Area: Discrete Mathematics
 description: "Develops the Propose-and-Reject algorithm for stable matching, proves termination and stability using the Improvement Lemma, and introduces the well-ordering principle. Proves that the resulting matching is employer optimal and candidate pessimal."
@@ -10,7 +10,7 @@ Last Updated: October 16, 2026
 Status: Finalized
 ---
 
-# CS 70 Note 11 — Stable Matching and the Propose-and-Reject Algorithm
+# N11 Stable Matching
 
 The **Stable Matching Problem** provides an application of proof techniques to the analysis of an algorithm. This note introduces **Propose-and-Reject**, proves that it terminates with a stable matching, and investigates whose preferences it favors. A detour through the **well-ordering principle** connects first-counterexample arguments with induction.
 

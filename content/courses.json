@@ -514,9 +514,9 @@
           "title": "Cardinality and Injective, Surjective, and Bijective Functions",
           "lectures": "",
           "updated": "October 22, 2026",
-          "type": "Course Notes",
+          "type": "Content Notes",
           "description": "Explains how injective, surjective, and bijective functions relate to comparisons of cardinality between sets.",
-          "file": "cs70/Course Notes/Cardinality and Injective, Surjective, and Bijective Functions.md",
+          "file": "cs70/Content Notes/Cardinality and Injective, Surjective, and Bijective Functions.md",
           "format": "md",
           "created": "October 22, 2026"
         },
@@ -621,7 +621,7 @@
         },
         {
           "slug": "n10-graphs-3fdeb012d2",
-          "title": "CS 70 Note 10 — Graph Theory, Eulerian Tours, Trees, Planarity, and Hypercubes",
+          "title": "N10 Graphs",
           "lectures": "",
           "updated": "October 3, 2026",
           "type": "Course Notes",
@@ -632,7 +632,7 @@
         },
         {
           "slug": "n11-stable-matching-1da8194787",
-          "title": "CS 70 Note 11 — Stable Matching and the Propose-and-Reject Algorithm",
+          "title": "N11 Stable Matching",
           "lectures": "",
           "updated": "October 16, 2026",
           "type": "Course Notes",
@@ -643,7 +643,7 @@
         },
         {
           "slug": "n12-countability-and-infinity-833de1aa93",
-          "title": "CS 70 Note 12 — Countability, Diagonalization, and Orders of Infinity",
+          "title": "N12 Countability and Infinity",
           "lectures": "",
           "updated": "October 16, 2026",
           "type": "Course Notes",
@@ -654,7 +654,7 @@
         },
         {
           "slug": "n13-self-reference-and-computability-90af14c56d",
-          "title": "CS 70 Note 13 — Self-Reference and Computability",
+          "title": "N13 Self-Reference and Computability",
           "lectures": "",
           "updated": "October 16, 2026",
           "type": "Course Notes",
@@ -665,7 +665,7 @@
         },
         {
           "slug": "n15-counting-5981b3207b",
-          "title": "CS 70 Note 15 — Counting",
+          "title": "N15 Counting",
           "lectures": "",
           "updated": "October 25, 2026",
           "type": "Course Notes",
@@ -676,7 +676,7 @@
         },
         {
           "slug": "n16-introduction-to-discrete-probability-94d55e0d84",
-          "title": "CS 70 Note 16 — Introduction to Discrete Probability",
+          "title": "N16 Introduction to Discrete Probability",
           "lectures": "",
           "updated": "October 25, 2026",
           "type": "Course Notes",
@@ -687,7 +687,7 @@
         },
         {
           "slug": "n17-conditional-probability-and-bayes-rule-0f2694ec6f",
-          "title": "CS 70 Note 17 — Conditional Probability and Bayes' Rule",
+          "title": "N17 Conditional Probability and Bayes' Rule",
           "lectures": "",
           "updated": "November 01, 2026",
           "type": "Course Notes",
@@ -698,7 +698,7 @@
         },
         {
           "slug": "n18-inclusion-exclusion-and-combinations-of-events-85587c5665",
-          "title": "CS 70 Note 18 — Inclusion-Exclusion and Combinations of Events",
+          "title": "N18 Inclusion-Exclusion and Combinations of Events",
           "lectures": "",
           "updated": "November 01, 2026",
           "type": "Course Notes",
@@ -709,7 +709,7 @@
         },
         {
           "slug": "n19-random-variables-distribution-and-expectation-6a3d142a29",
-          "title": "CS 70 Note 19 — Random Variables, Distribution and Expectation",
+          "title": "N19 Random Variables - Distribution and Expectation",
           "lectures": "",
           "updated": "November 07, 2026",
           "type": "Course Notes",
@@ -720,7 +720,7 @@
         },
         {
           "slug": "n20-random-variables-ii-linearity-of-expectation-b856bcc7f8",
-          "title": "CS 70 Note 20 — Random Variables II, Linearity of Expectation",
+          "title": "N20 Random Variables II - Linearity of Expectation",
           "lectures": "",
           "updated": "November 07, 2026",
           "type": "Course Notes",
@@ -786,7 +786,7 @@
         },
         {
           "slug": "n21-random-variables-iii-variance-1cc78fa883",
-          "title": "CS 70 Note 21 — Random Variables III, Variance",
+          "title": "N21 Random Variables III - Variance",
           "lectures": "",
           "created": "November 14, 2026",
           "updated": "November 14, 2026",
@@ -797,7 +797,7 @@
         },
         {
           "slug": "n22-standardization-covariance-and-correlation-3e73980cec",
-          "title": "CS 70 Note 22 — Standardization, Covariance, and Correlation",
+          "title": "N22 Standardization, Covariance, and Correlation",
           "lectures": "",
           "created": "November 14, 2026",
           "updated": "November 14, 2026",

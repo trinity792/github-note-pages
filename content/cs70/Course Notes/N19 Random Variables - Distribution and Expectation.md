@@ -1,5 +1,5 @@
 ---
-title: CS 70 Note 19 — Random Variables, Distribution and Expectation
+title: N19 Random Variables - Distribution and Expectation
 Content Type: Course Notes
 Content Area: Probability
 description: "Defines random variables, their distributions, and expectation, with the tail sum formula. Covers the Bernoulli, binomial, uniform, and geometric distributions, including the memoryless property and the expectation of a geometric random variable."
@@ -10,7 +10,7 @@ Last Updated: November 07, 2026
 Status: Finalized
 ---
 
-# CS 70 Note 19 — Random Variables: Distribution and Expectation
+# N19 Random Variables - Distribution and Expectation
 **Previous note:** [[cs70/Course Notes/N18 Inclusion-Exclusion and Combinations of Events|Note 18 — Inclusion-Exclusion and Combinations of Events]]. **Next note:** [[cs70/Course Notes/N20 Random Variables II - Linearity of Expectation|Note 20 — Random Variables II, Linearity of Expectation]].
 
 This note formalizes a **random variable** as a function on a sample space, defines its **distribution** and its **expectation**, and develops the **Bernoulli**, **binomial**, **uniform**, and **geometric** distributions. It closes with the **tail sum formula** and a proof that a geometric random variable with parameter $p$ has expectation $\frac{1}{p}$.

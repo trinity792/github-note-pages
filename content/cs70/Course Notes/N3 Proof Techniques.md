@@ -10,7 +10,7 @@ Last Updated: September 7, 2026
 Status: Finalized
 ---
 
-# CS 70 Note 3 — Proof Techniques
+# N3 Proof Techniques
 This note introduces three major proof techniques: **contraposition**, **contradiction**, and **proof by cases**. It also discusses common mistakes in proofs and general principles for writing rigorous mathematical arguments.
 
 ## 1. Proof by Contraposition

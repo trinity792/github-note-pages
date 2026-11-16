@@ -1,5 +1,5 @@
 ---
-title: CS 70 Note 18 — Inclusion-Exclusion and Combinations of Events
+title: N18 Inclusion-Exclusion and Combinations of Events
 Content Type: Course Notes
 Content Area: Probability
 description: "Proves the Principle of Inclusion-Exclusion and applies it to derangements, then develops independence, the Product Rule, and inclusion-exclusion for probabilities of unions, ending with the union bound. Examples include coin tosses, Monty Hall, poker hands, and a Las Vegas dice game."
@@ -10,7 +10,7 @@ Last Updated: November 01, 2026
 Status: Finalized
 ---
 
-# CS 70 Note 18 — Inclusion-Exclusion and Combinations of Events
+# N18 Inclusion-Exclusion and Combinations of Events
 **Previous note:** [[cs70/Course Notes/N17 Conditional Probability and Bayes' Rule|Note 17 — Conditional Probability and Bayes' Rule]].
 
 This note begins with the **Principle of Inclusion-Exclusion**, a counting formula that avoids over-counting, and uses it to rederive the number of derangements. It then turns to probabilities of combinations of events: **independence** and **mutual independence**, the **Product Rule** for intersections, and inclusion-exclusion for unions, together with the **union bound**.

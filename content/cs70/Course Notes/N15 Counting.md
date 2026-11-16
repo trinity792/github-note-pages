@@ -1,5 +1,5 @@
 ---
-title: CS 70 Note 15 — Counting
+title: N15 Counting
 Content Type: Course Notes
 Content Area: Counting
 description: "Develops the rules of counting for sequences and sets, with and without replacement and with or without regard to order. Covers the zeroth, first, and second rules of counting, stars-and-bars for multisets, the Binomial Theorem, and bonus material on combinatorial identities and derangements."
@@ -10,7 +10,7 @@ Last Updated: October 25, 2026
 Status: Finalized
 ---
 
-# CS 70 Note 15 — Counting
+# N15 Counting
 **Related lecture:** [[cs70/Lecture Notes/L15 Counting|L15 Counting]]. **Next note:** [[cs70/Course Notes/N16 Introduction to Discrete Probability|Note 16 — Introduction to Discrete Probability]].
 
 The next major topic of the course is probability theory. Suppose you toss a fair coin a thousand times. How likely is it that you get exactly 500 heads? And what about 1000 heads? The chances of 500 heads are roughly 2.5%, whereas the chances of 1000 heads are so infinitesimally small that we may as well say that it is impossible. But before you can learn to compute or estimate odds or probabilities you must learn to count. That is the subject of this note.

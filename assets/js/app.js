@@ -59,12 +59,11 @@ const statusChip = (value) => {
   return `<span class="status ${status === "Complete" ? "done" : status === "Draft" ? "idle" : ""}">${status}</span>`;
 };
 
-function card(n, carousel = false) {
-  const field = noteSortOption(noteSort).field;
-  return `<a class="card" href="${noteHref(n)}" style="--c: var(--sup-${n.course.color}-bg)">
-    <div class="card-top">${carousel ? chip(n.type, true) : ""}<span class="card-title">${esc(n.title)}</span>${carousel ? "" : chip(n.type, true)}</div>
+function card(n) {
+  return `<a class="card" href="${noteHref(n)}">
+    <div class="card-top"><span class="card-title">${esc(n.title)}</span>${chip(n.type, true)}</div>
     <p class="card-desc">${esc(n.description)}</p>
-    <div class="card-meta">${n.lectures ? `<span>${esc(n.lectures)}</span>` : ""}<span title="${esc(n[field] || "Date unavailable")}">${field === "created" ? "Created" : "Updated"}: ${esc(shortDate(n[field]) || "—")}</span><span class="bucket" style="color: var(--sup-${n.course.color}-text)">${esc(n.course.code)}</span></div>
+    <div class="card-meta"><span title="${esc(n.updated || "Date unavailable")}">Updated: ${esc(shortDate(n.updated) || "—")}</span><span title="${esc(n.created || "Date unavailable")}">Created: ${esc(shortDate(n.created) || "—")}</span><span class="bucket" style="color: var(--sup-${n.course.color}-text)">${esc(n.course.code)}</span></div>
   </a>`;
 }
 
@@ -242,7 +241,7 @@ function renderBrowse(route) {
           if (types.length > 1) {
             const id = `course-carousel-${index}`;
             const controls = `<div class="carousel-controls"><button class="iconbtn" data-slide="previous" aria-controls="${id}" aria-label="Previous ${esc(type)}">${icon("chevron-left", 14)}</button><button class="iconbtn" data-slide="next" aria-controls="${id}" aria-label="Next ${esc(type)}">${icon("chevron-right", 14)}</button></div>`;
-            return `<section class="section carousel-section">${sectionHead(esc(type), group.length, controls)}<div class="cards carousel" id="${id}" data-course-carousel role="region" aria-roledescription="carousel" aria-label="${esc(type)}" tabindex="0">${group.map((n) => card(n, true)).join("")}</div></section>`;
+            return `<section class="section carousel-section">${sectionHead(esc(type), group.length, controls)}<div class="cards carousel" id="${id}" data-course-carousel role="region" aria-roledescription="carousel" aria-label="${esc(type)}" tabindex="0">${group.map((n) => card(n)).join("")}</div></section>`;
           }
           return `<section class="section">${sectionHead(esc(type), group.length)}<div class="cards" id="course-grid-${index}" data-course-grid>${group.map((n) => card(n)).join("")}</div><div class="grid-footer"><span class="grid-count" aria-live="polite"></span><button class="show-more" aria-controls="course-grid-${index}" aria-label="Show more ${esc(type)}">Show more</button></div></section>`;
         }).join("")

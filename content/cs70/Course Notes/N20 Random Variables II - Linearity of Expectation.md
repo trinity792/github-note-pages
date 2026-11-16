@@ -1,5 +1,5 @@
 ---
-title: CS 70 Note 20 — Random Variables II, Linearity of Expectation
+title: N20 Random Variables II - Linearity of Expectation
 Content Type: Course Notes
 Content Area: Probability
 description: "Develops the Poisson distribution and its expectation, proves it is the limit of binomial distributions, and introduces joint distributions, independence of random variables, and sums of independent Poissons. Proves linearity of expectation and applies it to dice, roulette, fixed points, coin tosses, and balls and bins."
@@ -10,7 +10,7 @@ Last Updated: November 07, 2026
 Status: Finalized
 ---
 
-# CS 70 Note 20 — Random Variables II, Linearity of Expectation
+# N20 Random Variables II - Linearity of Expectation
 **Previous note:** [[cs70/Course Notes/N19 Random Variables - Distribution and Expectation|Note 19 — Random Variables: Distribution and Expectation]].
 
 This note introduces the **Poisson distribution** and shows that it is the limit of binomial distributions with a small success probability. It then extends distributions to several random variables at once through **joint distributions** and **independence**, and proves that the sum of independent Poisson random variables is Poisson. The second half is devoted to **linearity of expectation**, a shortcut that computes the expectation of a sum without knowing anything about how the terms depend on each other.

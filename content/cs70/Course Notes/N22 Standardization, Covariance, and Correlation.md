@@ -1,5 +1,5 @@
 ---
-title: CS 70 Note 22 — Standardization, Covariance, and Correlation
+title: N22 Standardization, Covariance, and Correlation
 Content Type: Course Notes
 Content Area: Probability
 description: "Standardizes random variables, defines covariance and correlation, and proves the correlation bounds and their equality cases."
@@ -10,7 +10,7 @@ Last Updated: November 14, 2026
 Status: Finalized
 ---
 
-# CS 70 Note 22 — Standardization, Covariance, and Correlation
+# N22 Standardization, Covariance, and Correlation
 
 **Previous note:** [[cs70/Course Notes/N21 Random Variables III - Variance|Note 21 — Random Variables III, Variance]].
 

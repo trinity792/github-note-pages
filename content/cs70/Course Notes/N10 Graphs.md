@@ -1,5 +1,5 @@
 ---
-title: CS 70 Note 10 — Graph Theory, Eulerian Tours, Trees, Planarity, and Hypercubes
+title: N10 Graphs
 Content Type: Course Notes
 Content Area: Discrete Mathematics
 description: "Introduces graphs, paths, connectivity, Eulerian tours, complete graphs, and trees. Develops Euler's formula and non-planarity criteria, then studies hypercube connectivity and de Bruijn sequences."
@@ -10,7 +10,7 @@ Last Updated: October 3, 2026
 Status: Finalized
 ---
 
-# CS 70 Note 10 — Graph Theory, Eulerian Tours, Trees, Planarity, and Hypercubes
+# N10 Graphs
 
 Graphs capture relationships between objects through **vertices** and **edges**. This note introduces their basic definitions, characterizes **Eulerian tours**, studies **complete graphs** and **trees**, develops **planar graphs** and **Euler's formula**, and examines the connectivity of **hypercubes**. The practice problems connect Eulerian tours to **de Bruijn sequences** and complete the induction arguments for trees.
 

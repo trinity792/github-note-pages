@@ -10,7 +10,7 @@ Last Updated: September 7, 2026
 Status: Finalized
 ---
 
-# CS 70 Notes 0-1 — Sets, Mathematical Notation, and Direct Proof
+# N0 N1 Sets, Mathematical Notation, and Direct Proof
 These notes review basic set notation and mathematical notation before introducing mathematical proofs and the technique of **direct proof**.
 
 ## 1. Sets

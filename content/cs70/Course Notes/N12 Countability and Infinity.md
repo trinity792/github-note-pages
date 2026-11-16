@@ -1,5 +1,5 @@
 ---
-title: CS 70 Note 12 — Countability, Diagonalization, and Orders of Infinity
+title: N12 Countability and Infinity
 Content Type: Course Notes
 Content Area: Discrete Mathematics
 description: "Uses bijections and injections to compare infinite sets and establish the countability of integers, rationals, finite strings, and polynomials. Develops Cantor's diagonalization, the uncountability of the Cantor set, and the larger cardinality of power sets."
@@ -10,7 +10,7 @@ Last Updated: October 16, 2026
 Status: Finalized
 ---
 
-# CS 70 Note 12 — Countability, Diagonalization, and Orders of Infinity
+# N12 Countability and Infinity
 [[Cardinality and Injective, Surjective, and Bijective Functions]]
 
 Infinity has different sizes. This note uses **bijections** to compare sets, constructs examples of **countable** infinite sets, and develops **Cantor's diagonalization** to show that the reals and the power set of the natural numbers are uncountable. The next note connects these ideas to the nature of computation and proof.

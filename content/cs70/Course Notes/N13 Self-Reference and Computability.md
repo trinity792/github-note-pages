@@ -1,5 +1,5 @@
 ---
-title: CS 70 Note 13 — Self-Reference and Computability
+title: N13 Self-Reference and Computability
 Content Type: Course Notes
 Content Area: Discrete Mathematics
 description: "Connects self-reference, quines, and the recursion theorem to the limits of computation. Proves the uncomputability of the Halting Problem, reduces it to the Easy Halting Problem, and sketches Gödel's Incompleteness Theorem through self-reference and proof enumeration."
@@ -10,7 +10,7 @@ Last Updated: October 16, 2026
 Status: Finalized
 ---
 
-# CS 70 Note 13 — Self-Reference and Computability
+# N13 Self-Reference and Computability
 
 **Self-reference** connects proofs with computation. This note moves from the liar's paradox to self-replicating programs, then uses self-reference and diagonalization to prove the **Halting Problem** uncomputable. It concludes with two sketches explaining **Gödel's Incompleteness Theorem** and the relationship between formal proofs and programs.
 

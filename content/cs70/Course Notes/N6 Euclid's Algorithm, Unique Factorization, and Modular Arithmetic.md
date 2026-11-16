@@ -10,7 +10,7 @@ Last Updated: September 18, 2026
 Status: Finalized
 ---
 
-# CS 70 Note 6 — Euclid's Algorithm, Unique Factorization, and Modular Arithmetic
+# N6 Euclid's Algorithm, Unique Factorization, and Modular Arithmetic
 
 This note develops the number-theoretic tools needed for modular arithmetic. It shows how **Euclid's algorithm** and its extension compute greatest common divisors and multiplicative inverses, uses these tools to prove the **Fundamental Theorem of Arithmetic**, states and proves the **Chinese Remainder Theorem**, and concludes with **Fermat's Little Theorem**.
 

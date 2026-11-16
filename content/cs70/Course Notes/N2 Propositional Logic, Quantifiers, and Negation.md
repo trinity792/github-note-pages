@@ -10,7 +10,7 @@ Last Updated: September 7, 2026
 Status: Finalized
 ---
 
-# CS 70 Note 2 — Propositional Logic, Quantifiers, and Negation
+# N2 Propositional Logic, Quantifiers, and Negation
 Mathematical proofs rely on a precise logical language. This note introduces **propositions**, **logical connectives**, **implications**, **quantifiers**, and techniques for manipulating and negating mathematical statements.
 
 ## 1. Propositional Logic

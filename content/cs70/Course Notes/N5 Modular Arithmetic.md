@@ -10,7 +10,7 @@ Last Updated: September 14, 2026
 Status: Finalized
 ---
 	
-# CS 70 Note 5 — Modular Arithmetic
+# N5 Modular Arithmetic
 In settings such as error-correcting codes and cryptography, it is often useful to work over a smaller, fixed range of numbers rather than over all the integers. This note introduces **modular arithmetic**, which limits numbers to a range $\{0,1,\ldots,N-1\}$ and wraps around whenever a computation would leave that range, along with the residue-class view of modular arithmetic, fast modular exponentiation, and multiplicative inverses.
 
 ## 1. Modular Arithmetic

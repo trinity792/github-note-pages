@@ -1,5 +1,5 @@
 ---
-title: CS 70 Note 21 — Random Variables III, Variance
+title: N21 Random Variables III - Variance
 Content Type: Course Notes
 Content Area: Probability
 description: "Applies geometric random variables to coupon collecting, develops expectation of a function and variance, and computes variance for common distributions and sums of independent variables."
@@ -10,7 +10,7 @@ Last Updated: November 14, 2026
 Status: Finalized
 ---
 
-# CS 70 Note 21 — Random Variables III, Variance
+# N21 Random Variables III - Variance
 
 **Previous note:** [[cs70/Course Notes/N20 Random Variables II - Linearity of Expectation|Note 20 — Random Variables II, Linearity of Expectation]].
 
