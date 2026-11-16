@@ -218,6 +218,10 @@ function renderBrowse(route) {
     .concat(courses().map((c) => `<button class="type-tab" data-course="${c.id}" aria-pressed="${filterCourse === c.id}" ${c.status === "active" ? "" : "disabled title='Coming soon'"}><span class="dia"></span>${esc(c.code)} <span class="n">${c.status === "active" ? c.notes.length : "soon"}</span></button>`));
 
   const sectionHead = (title, n, link) => `<div class="section-head"><h2>${title}</h2><span class="n">${n}</span><span class="spacer"></span>${link || ""}</div>`;
+  const carouselSection = (id, title, notes, link = "") => {
+    const controls = `<div class="carousel-controls"><button class="iconbtn" data-slide="previous" aria-controls="${id}" aria-label="Previous ${esc(title)}">${icon("chevron-left", 14)}</button><button class="iconbtn" data-slide="next" aria-controls="${id}" aria-label="Next ${esc(title)}">${icon("chevron-right", 14)}</button></div>`;
+    return `<section class="section carousel-section">${sectionHead(esc(title), notes.length, link + controls)}<div class="cards carousel" id="${id}" data-course-carousel role="region" aria-roledescription="carousel" aria-label="${esc(title)}" tabindex="0">${notes.map((n) => card(n)).join("")}</div></section>`;
+  };
   let body = "";
 
   if (view === "overview") {
@@ -227,10 +231,10 @@ function renderBrowse(route) {
         const style = `style="--f: var(--sup-${c.color}-bg); --fi: var(--sup-${c.color}-fg)"`;
         return c.status === "active" ? `<a class="folder" href="#/c/${c.id}" title="${esc(c.name)}" ${style}>${inner}</a>` : `<div class="folder soon" title="${esc(c.name)}" ${style}>${inner}</div>`;
       }).join("")}</div></section>`;
-    if (pinned.length) body += `<section class="section">${sectionHead("Pinned Notes", pinned.length, '<a class="link" href="#/pinned">See all</a>')}<div class="cards">${pinned.slice(0, 3).map((n) => card(n)).join("")}</div></section>`;
+    if (pinned.length) body += carouselSection("home-pinned", "Pinned Notes", pinned, '<a class="link" href="#/pinned">See all</a>');
     for (const c of active.filter((x) => filterCourse === "all" || x.id === filterCourse)) {
       const list = sortNotes(allNotes().filter((n) => n.course.id === c.id), noteSort);
-      body += `<section class="section">${sectionHead(`${esc(c.code)} · Notes`, list.length, `<a class="link" href="#/c/${c.id}">View course</a>`)}<div class="cards">${list.map((n) => card(n)).join("")}</div></section>`;
+      body += carouselSection(`home-${c.id}`, `${c.code} · Notes`, list, `<a class="link" href="#/c/${c.id}">View course</a>`);
     }
   } else if (view === "course") {
     const list = allNotes().filter((n) => n.course.id === route.course);
@@ -239,9 +243,7 @@ function renderBrowse(route) {
       ? types.map((type, index) => {
           const group = sortNotes(list.filter((n) => n.type === type), noteSort);
           if (types.length > 1) {
-            const id = `course-carousel-${index}`;
-            const controls = `<div class="carousel-controls"><button class="iconbtn" data-slide="previous" aria-controls="${id}" aria-label="Previous ${esc(type)}">${icon("chevron-left", 14)}</button><button class="iconbtn" data-slide="next" aria-controls="${id}" aria-label="Next ${esc(type)}">${icon("chevron-right", 14)}</button></div>`;
-            return `<section class="section carousel-section">${sectionHead(esc(type), group.length, controls)}<div class="cards carousel" id="${id}" data-course-carousel role="region" aria-roledescription="carousel" aria-label="${esc(type)}" tabindex="0">${group.map((n) => card(n)).join("")}</div></section>`;
+            return carouselSection(`course-carousel-${index}`, type, group);
           }
           return `<section class="section">${sectionHead(esc(type), group.length)}<div class="cards" id="course-grid-${index}" data-course-grid>${group.map((n) => card(n)).join("")}</div><div class="grid-footer"><span class="grid-count" aria-live="polite"></span><button class="show-more" aria-controls="course-grid-${index}" aria-label="Show more ${esc(type)}">Show more</button></div></section>`;
         }).join("")
