@@ -63,7 +63,7 @@ function card(n) {
   return `<a class="card" href="${noteHref(n)}">
     <div class="card-top"><span class="card-title">${esc(n.title)}</span>${chip(n.type, true)}</div>
     <p class="card-desc">${esc(n.description)}</p>
-    <div class="card-meta"><span title="${esc(n.updated || "Date unavailable")}">Updated: ${esc(shortDate(n.updated) || "—")}</span><span title="${esc(n.created || "Date unavailable")}">Created: ${esc(shortDate(n.created) || "—")}</span><span class="bucket" style="color: var(--sup-${n.course.color}-text)">${esc(n.course.code)}</span></div>
+    <div class="card-meta">${n.updated ? `<span title="${esc(n.updated)}">Updated: ${esc(shortDate(n.updated))}</span>` : ""}${n.created ? `<span title="${esc(n.created)}">Created: ${esc(shortDate(n.created))}</span>` : ""}<span class="bucket" style="color: var(--sup-${n.course.color}-text)">${esc(n.course.code)}</span></div>
   </a>`;
 }
 

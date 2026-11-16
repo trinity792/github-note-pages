@@ -205,7 +205,7 @@ input, select, textarea { font: inherit; color: inherit; }
 .cards.carousel { grid-template-columns: none; grid-auto-flow: column; grid-auto-columns: 403px; gap: var(--space-4); overflow-x: auto; overscroll-behavior-x: contain; scroll-snap-type: x mandatory; scroll-padding-inline: 2px; padding: 2px 2px 12px; }
 .carousel .card { scroll-snap-align: start; }
 .card {
-  display: flex; flex-direction: column; gap: var(--space-3); min-width: 0; max-width: 480px; min-height: 210px;
+  display: flex; flex-direction: column; gap: var(--space-3); min-width: 0; min-height: 210px;
   padding: var(--space-6) var(--space-4); border: 1px solid var(--border); border-radius: var(--r-12); background: var(--bg-container);
   transition: border-color 0.12s ease;
 }
